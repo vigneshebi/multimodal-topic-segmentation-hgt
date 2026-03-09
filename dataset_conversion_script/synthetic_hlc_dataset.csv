@@ -1,0 +1,2001 @@
+doc_id,unit_id,temporal_index,content,modality
+lecture_1,U1,1,Neural network architecture diagram,diagram
+lecture_1,U2,2,Introduction to linear regression and supervised learning,text
+lecture_1,U3,3,Explanation of gradient descent optimization,text
+lecture_1,U4,4,Training data table with input-output pairs,table
+lecture_1,U5,5,Introduction to linear regression and supervised learning,text
+lecture_1,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_1,U7,7,∂L/∂w = (ŷ - y)x,equation
+lecture_1,U8,8,Visualization of decision boundary,diagram
+lecture_1,U9,9,∂L/∂w = (ŷ - y)x,equation
+lecture_1,U10,10,∂L/∂w = (ŷ - y)x,equation
+lecture_1,U11,11,Diagram showing regression line fitting data points,diagram
+lecture_1,U12,12,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_1,U13,13,Explanation of gradient descent optimization,text
+lecture_1,U14,14,Introduction to linear regression and supervised learning,text
+lecture_1,U15,15,Comparison table of algorithm performance metrics,table
+lecture_1,U16,16,Graphical illustration of gradient descent,diagram
+lecture_1,U17,17,Introduction to linear regression and supervised learning,text
+lecture_1,U18,18,Overview of neural networks and activation functions,text
+lecture_1,U19,19,Discussion of overfitting and model generalization,text
+lecture_1,U20,20,Neural network architecture diagram,diagram
+lecture_2,U1,1,Neural network architecture diagram,diagram
+lecture_2,U2,2,Hyperparameter tuning results table,table
+lecture_2,U3,3,Visualization of decision boundary,diagram
+lecture_2,U4,4,Hyperparameter tuning results table,table
+lecture_2,U5,5,Dataset statistics table showing samples and features,table
+lecture_2,U6,6,Visualization of decision boundary,diagram
+lecture_2,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_2,U8,8,Overview of neural networks and activation functions,text
+lecture_2,U9,9,Comparison table of algorithm performance metrics,table
+lecture_2,U10,10,Training data table with input-output pairs,table
+lecture_2,U11,11,Comparison table of algorithm performance metrics,table
+lecture_2,U12,12,Diagram showing regression line fitting data points,diagram
+lecture_2,U13,13,Neural network architecture diagram,diagram
+lecture_2,U14,14,σ(x) = 1 / (1 + e^-x),equation
+lecture_2,U15,15,Flowchart of machine learning pipeline,diagram
+lecture_2,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_2,U17,17,Comparison table of algorithm performance metrics,table
+lecture_2,U18,18,∂L/∂w = (ŷ - y)x,equation
+lecture_2,U19,19,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_2,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_3,U1,1,Graphical illustration of gradient descent,diagram
+lecture_3,U2,2,∂L/∂w = (ŷ - y)x,equation
+lecture_3,U3,3,Explanation of feature scaling and normalization,text
+lecture_3,U4,4,Training data table with input-output pairs,table
+lecture_3,U5,5,Diagram showing regression line fitting data points,diagram
+lecture_3,U6,6,Evaluation metrics table including precision recall and F1,table
+lecture_3,U7,7,σ(x) = 1 / (1 + e^-x),equation
+lecture_3,U8,8,Hyperparameter tuning results table,table
+lecture_3,U9,9,y = wx + b,equation
+lecture_3,U10,10,Dataset statistics table showing samples and features,table
+lecture_3,U11,11,Dataset statistics table showing samples and features,table
+lecture_3,U12,12,σ(x) = 1 / (1 + e^-x),equation
+lecture_3,U13,13,Comparison table of algorithm performance metrics,table
+lecture_3,U14,14,Neural network architecture diagram,diagram
+lecture_3,U15,15,Flowchart of machine learning pipeline,diagram
+lecture_3,U16,16,Introduction to linear regression and supervised learning,text
+lecture_3,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_3,U18,18,Explanation of feature scaling and normalization,text
+lecture_3,U19,19,Evaluation metrics table including precision recall and F1,table
+lecture_3,U20,20,Comparison table of algorithm performance metrics,table
+lecture_4,U1,1,Overview of neural networks and activation functions,text
+lecture_4,U2,2,Comparison table of algorithm performance metrics,table
+lecture_4,U3,3,Dataset statistics table showing samples and features,table
+lecture_4,U4,4,Comparison table of algorithm performance metrics,table
+lecture_4,U5,5,Neural network architecture diagram,diagram
+lecture_4,U6,6,Dataset statistics table showing samples and features,table
+lecture_4,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_4,U8,8,Graphical illustration of gradient descent,diagram
+lecture_4,U9,9,∂L/∂w = (ŷ - y)x,equation
+lecture_4,U10,10,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_4,U11,11,Neural network architecture diagram,diagram
+lecture_4,U12,12,Graphical illustration of gradient descent,diagram
+lecture_4,U13,13,Discussion of overfitting and model generalization,text
+lecture_4,U14,14,Visualization of decision boundary,diagram
+lecture_4,U15,15,Explanation of feature scaling and normalization,text
+lecture_4,U16,16,Hyperparameter tuning results table,table
+lecture_4,U17,17,Evaluation metrics table including precision recall and F1,table
+lecture_4,U18,18,Overview of neural networks and activation functions,text
+lecture_4,U19,19,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_4,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_5,U1,1,Comparison table of algorithm performance metrics,table
+lecture_5,U2,2,Explanation of feature scaling and normalization,text
+lecture_5,U3,3,Training data table with input-output pairs,table
+lecture_5,U4,4,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_5,U5,5,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_5,U6,6,Overview of neural networks and activation functions,text
+lecture_5,U7,7,Training data table with input-output pairs,table
+lecture_5,U8,8,Dataset statistics table showing samples and features,table
+lecture_5,U9,9,Overview of neural networks and activation functions,text
+lecture_5,U10,10,Visualization of decision boundary,diagram
+lecture_5,U11,11,Flowchart of machine learning pipeline,diagram
+lecture_5,U12,12,Graphical illustration of gradient descent,diagram
+lecture_5,U13,13,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_5,U14,14,Hyperparameter tuning results table,table
+lecture_5,U15,15,σ(x) = 1 / (1 + e^-x),equation
+lecture_5,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_5,U17,17,Neural network architecture diagram,diagram
+lecture_5,U18,18,Neural network architecture diagram,diagram
+lecture_5,U19,19,Visualization of decision boundary,diagram
+lecture_5,U20,20,Discussion of overfitting and model generalization,text
+lecture_6,U1,1,Diagram showing regression line fitting data points,diagram
+lecture_6,U2,2,σ(x) = 1 / (1 + e^-x),equation
+lecture_6,U3,3,Dataset statistics table showing samples and features,table
+lecture_6,U4,4,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_6,U5,5,Training data table with input-output pairs,table
+lecture_6,U6,6,Visualization of decision boundary,diagram
+lecture_6,U7,7,Training data table with input-output pairs,table
+lecture_6,U8,8,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_6,U9,9,Training data table with input-output pairs,table
+lecture_6,U10,10,Evaluation metrics table including precision recall and F1,table
+lecture_6,U11,11,y = wx + b,equation
+lecture_6,U12,12,Comparison table of algorithm performance metrics,table
+lecture_6,U13,13,Explanation of feature scaling and normalization,text
+lecture_6,U14,14,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_6,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_6,U16,16,Hyperparameter tuning results table,table
+lecture_6,U17,17,Flowchart of machine learning pipeline,diagram
+lecture_6,U18,18,Hyperparameter tuning results table,table
+lecture_6,U19,19,Evaluation metrics table including precision recall and F1,table
+lecture_6,U20,20,Visualization of decision boundary,diagram
+lecture_7,U1,1,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_7,U2,2,Graphical illustration of gradient descent,diagram
+lecture_7,U3,3,Visualization of decision boundary,diagram
+lecture_7,U4,4,σ(x) = 1 / (1 + e^-x),equation
+lecture_7,U5,5,Explanation of feature scaling and normalization,text
+lecture_7,U6,6,σ(x) = 1 / (1 + e^-x),equation
+lecture_7,U7,7,Explanation of feature scaling and normalization,text
+lecture_7,U8,8,Diagram showing regression line fitting data points,diagram
+lecture_7,U9,9,Diagram showing regression line fitting data points,diagram
+lecture_7,U10,10,Explanation of feature scaling and normalization,text
+lecture_7,U11,11,Hyperparameter tuning results table,table
+lecture_7,U12,12,σ(x) = 1 / (1 + e^-x),equation
+lecture_7,U13,13,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_7,U14,14,Graphical illustration of gradient descent,diagram
+lecture_7,U15,15,Evaluation metrics table including precision recall and F1,table
+lecture_7,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_7,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_7,U18,18,Dataset statistics table showing samples and features,table
+lecture_7,U19,19,Diagram showing regression line fitting data points,diagram
+lecture_7,U20,20,∂L/∂w = (ŷ - y)x,equation
+lecture_8,U1,1,Explanation of gradient descent optimization,text
+lecture_8,U2,2,Hyperparameter tuning results table,table
+lecture_8,U3,3,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_8,U4,4,Discussion of overfitting and model generalization,text
+lecture_8,U5,5,Neural network architecture diagram,diagram
+lecture_8,U6,6,Graphical illustration of gradient descent,diagram
+lecture_8,U7,7,Overview of neural networks and activation functions,text
+lecture_8,U8,8,Diagram showing regression line fitting data points,diagram
+lecture_8,U9,9,Overview of neural networks and activation functions,text
+lecture_8,U10,10,Graphical illustration of gradient descent,diagram
+lecture_8,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_8,U12,12,Discussion of overfitting and model generalization,text
+lecture_8,U13,13,Overview of neural networks and activation functions,text
+lecture_8,U14,14,Explanation of feature scaling and normalization,text
+lecture_8,U15,15,Neural network architecture diagram,diagram
+lecture_8,U16,16,Explanation of feature scaling and normalization,text
+lecture_8,U17,17,Neural network architecture diagram,diagram
+lecture_8,U18,18,Overview of neural networks and activation functions,text
+lecture_8,U19,19,Dataset statistics table showing samples and features,table
+lecture_8,U20,20,Explanation of feature scaling and normalization,text
+lecture_9,U1,1,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_9,U2,2,Flowchart of machine learning pipeline,diagram
+lecture_9,U3,3,y = wx + b,equation
+lecture_9,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_9,U5,5,∂L/∂w = (ŷ - y)x,equation
+lecture_9,U6,6,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_9,U7,7,∂L/∂w = (ŷ - y)x,equation
+lecture_9,U8,8,Overview of neural networks and activation functions,text
+lecture_9,U9,9,Discussion of overfitting and model generalization,text
+lecture_9,U10,10,Explanation of gradient descent optimization,text
+lecture_9,U11,11,∂L/∂w = (ŷ - y)x,equation
+lecture_9,U12,12,Explanation of gradient descent optimization,text
+lecture_9,U13,13,Discussion of overfitting and model generalization,text
+lecture_9,U14,14,Dataset statistics table showing samples and features,table
+lecture_9,U15,15,Visualization of decision boundary,diagram
+lecture_9,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_9,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_9,U18,18,Comparison table of algorithm performance metrics,table
+lecture_9,U19,19,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_9,U20,20,Evaluation metrics table including precision recall and F1,table
+lecture_10,U1,1,σ(x) = 1 / (1 + e^-x),equation
+lecture_10,U2,2,Explanation of gradient descent optimization,text
+lecture_10,U3,3,Flowchart of machine learning pipeline,diagram
+lecture_10,U4,4,Introduction to linear regression and supervised learning,text
+lecture_10,U5,5,Flowchart of machine learning pipeline,diagram
+lecture_10,U6,6,Training data table with input-output pairs,table
+lecture_10,U7,7,Evaluation metrics table including precision recall and F1,table
+lecture_10,U8,8,Flowchart of machine learning pipeline,diagram
+lecture_10,U9,9,Explanation of gradient descent optimization,text
+lecture_10,U10,10,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_10,U11,11,Visualization of decision boundary,diagram
+lecture_10,U12,12,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_10,U13,13,∂L/∂w = (ŷ - y)x,equation
+lecture_10,U14,14,Introduction to linear regression and supervised learning,text
+lecture_10,U15,15,Discussion of overfitting and model generalization,text
+lecture_10,U16,16,Explanation of gradient descent optimization,text
+lecture_10,U17,17,Explanation of feature scaling and normalization,text
+lecture_10,U18,18,Dataset statistics table showing samples and features,table
+lecture_10,U19,19,Dataset statistics table showing samples and features,table
+lecture_10,U20,20,∂L/∂w = (ŷ - y)x,equation
+lecture_11,U1,1,Neural network architecture diagram,diagram
+lecture_11,U2,2,Overview of neural networks and activation functions,text
+lecture_11,U3,3,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_11,U4,4,σ(x) = 1 / (1 + e^-x),equation
+lecture_11,U5,5,Introduction to linear regression and supervised learning,text
+lecture_11,U6,6,Evaluation metrics table including precision recall and F1,table
+lecture_11,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_11,U8,8,y = wx + b,equation
+lecture_11,U9,9,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_11,U10,10,Explanation of feature scaling and normalization,text
+lecture_11,U11,11,Discussion of overfitting and model generalization,text
+lecture_11,U12,12,Visualization of decision boundary,diagram
+lecture_11,U13,13,Diagram showing regression line fitting data points,diagram
+lecture_11,U14,14,Evaluation metrics table including precision recall and F1,table
+lecture_11,U15,15,Overview of neural networks and activation functions,text
+lecture_11,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_11,U17,17,Graphical illustration of gradient descent,diagram
+lecture_11,U18,18,Dataset statistics table showing samples and features,table
+lecture_11,U19,19,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_11,U20,20,Diagram showing regression line fitting data points,diagram
+lecture_12,U1,1,Comparison table of algorithm performance metrics,table
+lecture_12,U2,2,Diagram showing regression line fitting data points,diagram
+lecture_12,U3,3,y = wx + b,equation
+lecture_12,U4,4,Dataset statistics table showing samples and features,table
+lecture_12,U5,5,Diagram showing regression line fitting data points,diagram
+lecture_12,U6,6,Evaluation metrics table including precision recall and F1,table
+lecture_12,U7,7,y = wx + b,equation
+lecture_12,U8,8,Diagram showing regression line fitting data points,diagram
+lecture_12,U9,9,σ(x) = 1 / (1 + e^-x),equation
+lecture_12,U10,10,Explanation of feature scaling and normalization,text
+lecture_12,U11,11,Dataset statistics table showing samples and features,table
+lecture_12,U12,12,y = wx + b,equation
+lecture_12,U13,13,Visualization of decision boundary,diagram
+lecture_12,U14,14,∂L/∂w = (ŷ - y)x,equation
+lecture_12,U15,15,y = wx + b,equation
+lecture_12,U16,16,∂L/∂w = (ŷ - y)x,equation
+lecture_12,U17,17,Discussion of overfitting and model generalization,text
+lecture_12,U18,18,Hyperparameter tuning results table,table
+lecture_12,U19,19,∂L/∂w = (ŷ - y)x,equation
+lecture_12,U20,20,Comparison table of algorithm performance metrics,table
+lecture_13,U1,1,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_13,U2,2,Dataset statistics table showing samples and features,table
+lecture_13,U3,3,Graphical illustration of gradient descent,diagram
+lecture_13,U4,4,Explanation of feature scaling and normalization,text
+lecture_13,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_13,U6,6,Graphical illustration of gradient descent,diagram
+lecture_13,U7,7,Graphical illustration of gradient descent,diagram
+lecture_13,U8,8,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_13,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_13,U10,10,Explanation of feature scaling and normalization,text
+lecture_13,U11,11,Explanation of gradient descent optimization,text
+lecture_13,U12,12,y = wx + b,equation
+lecture_13,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_13,U14,14,Explanation of gradient descent optimization,text
+lecture_13,U15,15,Discussion of overfitting and model generalization,text
+lecture_13,U16,16,Explanation of gradient descent optimization,text
+lecture_13,U17,17,Comparison table of algorithm performance metrics,table
+lecture_13,U18,18,Visualization of decision boundary,diagram
+lecture_13,U19,19,Discussion of overfitting and model generalization,text
+lecture_13,U20,20,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_14,U1,1,Introduction to linear regression and supervised learning,text
+lecture_14,U2,2,y = wx + b,equation
+lecture_14,U3,3,Graphical illustration of gradient descent,diagram
+lecture_14,U4,4,Explanation of gradient descent optimization,text
+lecture_14,U5,5,y = wx + b,equation
+lecture_14,U6,6,Visualization of decision boundary,diagram
+lecture_14,U7,7,Dataset statistics table showing samples and features,table
+lecture_14,U8,8,Discussion of overfitting and model generalization,text
+lecture_14,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_14,U10,10,Overview of neural networks and activation functions,text
+lecture_14,U11,11,Training data table with input-output pairs,table
+lecture_14,U12,12,Overview of neural networks and activation functions,text
+lecture_14,U13,13,Training data table with input-output pairs,table
+lecture_14,U14,14,Overview of neural networks and activation functions,text
+lecture_14,U15,15,Overview of neural networks and activation functions,text
+lecture_14,U16,16,Explanation of feature scaling and normalization,text
+lecture_14,U17,17,Hyperparameter tuning results table,table
+lecture_14,U18,18,∂L/∂w = (ŷ - y)x,equation
+lecture_14,U19,19,Hyperparameter tuning results table,table
+lecture_14,U20,20,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_15,U1,1,Neural network architecture diagram,diagram
+lecture_15,U2,2,Diagram showing regression line fitting data points,diagram
+lecture_15,U3,3,Explanation of feature scaling and normalization,text
+lecture_15,U4,4,Diagram showing regression line fitting data points,diagram
+lecture_15,U5,5,Visualization of decision boundary,diagram
+lecture_15,U6,6,Explanation of gradient descent optimization,text
+lecture_15,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_15,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_15,U9,9,σ(x) = 1 / (1 + e^-x),equation
+lecture_15,U10,10,σ(x) = 1 / (1 + e^-x),equation
+lecture_15,U11,11,Neural network architecture diagram,diagram
+lecture_15,U12,12,Introduction to linear regression and supervised learning,text
+lecture_15,U13,13,Dataset statistics table showing samples and features,table
+lecture_15,U14,14,σ(x) = 1 / (1 + e^-x),equation
+lecture_15,U15,15,Diagram showing regression line fitting data points,diagram
+lecture_15,U16,16,Graphical illustration of gradient descent,diagram
+lecture_15,U17,17,Explanation of gradient descent optimization,text
+lecture_15,U18,18,Graphical illustration of gradient descent,diagram
+lecture_15,U19,19,Graphical illustration of gradient descent,diagram
+lecture_15,U20,20,Graphical illustration of gradient descent,diagram
+lecture_16,U1,1,Explanation of gradient descent optimization,text
+lecture_16,U2,2,Neural network architecture diagram,diagram
+lecture_16,U3,3,Overview of neural networks and activation functions,text
+lecture_16,U4,4,Visualization of decision boundary,diagram
+lecture_16,U5,5,Dataset statistics table showing samples and features,table
+lecture_16,U6,6,Neural network architecture diagram,diagram
+lecture_16,U7,7,σ(x) = 1 / (1 + e^-x),equation
+lecture_16,U8,8,Overview of neural networks and activation functions,text
+lecture_16,U9,9,Graphical illustration of gradient descent,diagram
+lecture_16,U10,10,Hyperparameter tuning results table,table
+lecture_16,U11,11,Dataset statistics table showing samples and features,table
+lecture_16,U12,12,Introduction to linear regression and supervised learning,text
+lecture_16,U13,13,Overview of neural networks and activation functions,text
+lecture_16,U14,14,Dataset statistics table showing samples and features,table
+lecture_16,U15,15,Discussion of overfitting and model generalization,text
+lecture_16,U16,16,Graphical illustration of gradient descent,diagram
+lecture_16,U17,17,Dataset statistics table showing samples and features,table
+lecture_16,U18,18,Discussion of overfitting and model generalization,text
+lecture_16,U19,19,y = wx + b,equation
+lecture_16,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_17,U1,1,Comparison table of algorithm performance metrics,table
+lecture_17,U2,2,Visualization of decision boundary,diagram
+lecture_17,U3,3,σ(x) = 1 / (1 + e^-x),equation
+lecture_17,U4,4,Graphical illustration of gradient descent,diagram
+lecture_17,U5,5,Flowchart of machine learning pipeline,diagram
+lecture_17,U6,6,Training data table with input-output pairs,table
+lecture_17,U7,7,Diagram showing regression line fitting data points,diagram
+lecture_17,U8,8,Overview of neural networks and activation functions,text
+lecture_17,U9,9,σ(x) = 1 / (1 + e^-x),equation
+lecture_17,U10,10,Introduction to linear regression and supervised learning,text
+lecture_17,U11,11,Visualization of decision boundary,diagram
+lecture_17,U12,12,∂L/∂w = (ŷ - y)x,equation
+lecture_17,U13,13,Training data table with input-output pairs,table
+lecture_17,U14,14,y = wx + b,equation
+lecture_17,U15,15,Training data table with input-output pairs,table
+lecture_17,U16,16,Discussion of overfitting and model generalization,text
+lecture_17,U17,17,Dataset statistics table showing samples and features,table
+lecture_17,U18,18,∂L/∂w = (ŷ - y)x,equation
+lecture_17,U19,19,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_17,U20,20,Explanation of feature scaling and normalization,text
+lecture_18,U1,1,Explanation of feature scaling and normalization,text
+lecture_18,U2,2,Graphical illustration of gradient descent,diagram
+lecture_18,U3,3,Explanation of feature scaling and normalization,text
+lecture_18,U4,4,Dataset statistics table showing samples and features,table
+lecture_18,U5,5,Diagram showing regression line fitting data points,diagram
+lecture_18,U6,6,Neural network architecture diagram,diagram
+lecture_18,U7,7,Introduction to linear regression and supervised learning,text
+lecture_18,U8,8,Neural network architecture diagram,diagram
+lecture_18,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_18,U10,10,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_18,U11,11,Introduction to linear regression and supervised learning,text
+lecture_18,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_18,U13,13,Hyperparameter tuning results table,table
+lecture_18,U14,14,Visualization of decision boundary,diagram
+lecture_18,U15,15,Discussion of overfitting and model generalization,text
+lecture_18,U16,16,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_18,U17,17,Evaluation metrics table including precision recall and F1,table
+lecture_18,U18,18,Diagram showing regression line fitting data points,diagram
+lecture_18,U19,19,Neural network architecture diagram,diagram
+lecture_18,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_19,U1,1,Explanation of gradient descent optimization,text
+lecture_19,U2,2,Explanation of feature scaling and normalization,text
+lecture_19,U3,3,Visualization of decision boundary,diagram
+lecture_19,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_19,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_19,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_19,U7,7,Explanation of feature scaling and normalization,text
+lecture_19,U8,8,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_19,U9,9,Neural network architecture diagram,diagram
+lecture_19,U10,10,Explanation of gradient descent optimization,text
+lecture_19,U11,11,Explanation of gradient descent optimization,text
+lecture_19,U12,12,Discussion of overfitting and model generalization,text
+lecture_19,U13,13,Neural network architecture diagram,diagram
+lecture_19,U14,14,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_19,U15,15,Diagram showing regression line fitting data points,diagram
+lecture_19,U16,16,y = wx + b,equation
+lecture_19,U17,17,Diagram showing regression line fitting data points,diagram
+lecture_19,U18,18,Overview of neural networks and activation functions,text
+lecture_19,U19,19,Discussion of overfitting and model generalization,text
+lecture_19,U20,20,Dataset statistics table showing samples and features,table
+lecture_20,U1,1,Explanation of gradient descent optimization,text
+lecture_20,U2,2,Explanation of feature scaling and normalization,text
+lecture_20,U3,3,σ(x) = 1 / (1 + e^-x),equation
+lecture_20,U4,4,Training data table with input-output pairs,table
+lecture_20,U5,5,Introduction to linear regression and supervised learning,text
+lecture_20,U6,6,Overview of neural networks and activation functions,text
+lecture_20,U7,7,Explanation of feature scaling and normalization,text
+lecture_20,U8,8,Neural network architecture diagram,diagram
+lecture_20,U9,9,Diagram showing regression line fitting data points,diagram
+lecture_20,U10,10,Flowchart of machine learning pipeline,diagram
+lecture_20,U11,11,Explanation of gradient descent optimization,text
+lecture_20,U12,12,Overview of neural networks and activation functions,text
+lecture_20,U13,13,Dataset statistics table showing samples and features,table
+lecture_20,U14,14,Discussion of overfitting and model generalization,text
+lecture_20,U15,15,Training data table with input-output pairs,table
+lecture_20,U16,16,Discussion of overfitting and model generalization,text
+lecture_20,U17,17,Dataset statistics table showing samples and features,table
+lecture_20,U18,18,Explanation of gradient descent optimization,text
+lecture_20,U19,19,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_20,U20,20,Graphical illustration of gradient descent,diagram
+lecture_21,U1,1,Dataset statistics table showing samples and features,table
+lecture_21,U2,2,Neural network architecture diagram,diagram
+lecture_21,U3,3,Training data table with input-output pairs,table
+lecture_21,U4,4,Training data table with input-output pairs,table
+lecture_21,U5,5,Overview of neural networks and activation functions,text
+lecture_21,U6,6,Neural network architecture diagram,diagram
+lecture_21,U7,7,σ(x) = 1 / (1 + e^-x),equation
+lecture_21,U8,8,σ(x) = 1 / (1 + e^-x),equation
+lecture_21,U9,9,Visualization of decision boundary,diagram
+lecture_21,U10,10,Flowchart of machine learning pipeline,diagram
+lecture_21,U11,11,Neural network architecture diagram,diagram
+lecture_21,U12,12,Graphical illustration of gradient descent,diagram
+lecture_21,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_21,U14,14,Explanation of feature scaling and normalization,text
+lecture_21,U15,15,Training data table with input-output pairs,table
+lecture_21,U16,16,Visualization of decision boundary,diagram
+lecture_21,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_21,U18,18,σ(x) = 1 / (1 + e^-x),equation
+lecture_21,U19,19,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_21,U20,20,Hyperparameter tuning results table,table
+lecture_22,U1,1,Introduction to linear regression and supervised learning,text
+lecture_22,U2,2,Dataset statistics table showing samples and features,table
+lecture_22,U3,3,Explanation of gradient descent optimization,text
+lecture_22,U4,4,Hyperparameter tuning results table,table
+lecture_22,U5,5,Hyperparameter tuning results table,table
+lecture_22,U6,6,Explanation of gradient descent optimization,text
+lecture_22,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_22,U8,8,Neural network architecture diagram,diagram
+lecture_22,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_22,U10,10,Dataset statistics table showing samples and features,table
+lecture_22,U11,11,Evaluation metrics table including precision recall and F1,table
+lecture_22,U12,12,∂L/∂w = (ŷ - y)x,equation
+lecture_22,U13,13,Comparison table of algorithm performance metrics,table
+lecture_22,U14,14,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_22,U15,15,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_22,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_22,U17,17,Comparison table of algorithm performance metrics,table
+lecture_22,U18,18,Dataset statistics table showing samples and features,table
+lecture_22,U19,19,Graphical illustration of gradient descent,diagram
+lecture_22,U20,20,Overview of neural networks and activation functions,text
+lecture_23,U1,1,Overview of neural networks and activation functions,text
+lecture_23,U2,2,Discussion of overfitting and model generalization,text
+lecture_23,U3,3,Discussion of overfitting and model generalization,text
+lecture_23,U4,4,Explanation of feature scaling and normalization,text
+lecture_23,U5,5,Evaluation metrics table including precision recall and F1,table
+lecture_23,U6,6,Flowchart of machine learning pipeline,diagram
+lecture_23,U7,7,Explanation of feature scaling and normalization,text
+lecture_23,U8,8,Overview of neural networks and activation functions,text
+lecture_23,U9,9,Graphical illustration of gradient descent,diagram
+lecture_23,U10,10,Introduction to linear regression and supervised learning,text
+lecture_23,U11,11,Hyperparameter tuning results table,table
+lecture_23,U12,12,Graphical illustration of gradient descent,diagram
+lecture_23,U13,13,Discussion of overfitting and model generalization,text
+lecture_23,U14,14,Explanation of feature scaling and normalization,text
+lecture_23,U15,15,Overview of neural networks and activation functions,text
+lecture_23,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_23,U17,17,Dataset statistics table showing samples and features,table
+lecture_23,U18,18,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_23,U19,19,Comparison table of algorithm performance metrics,table
+lecture_23,U20,20,Diagram showing regression line fitting data points,diagram
+lecture_24,U1,1,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_24,U2,2,Overview of neural networks and activation functions,text
+lecture_24,U3,3,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_24,U4,4,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_24,U5,5,Diagram showing regression line fitting data points,diagram
+lecture_24,U6,6,Introduction to linear regression and supervised learning,text
+lecture_24,U7,7,Dataset statistics table showing samples and features,table
+lecture_24,U8,8,Visualization of decision boundary,diagram
+lecture_24,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_24,U10,10,σ(x) = 1 / (1 + e^-x),equation
+lecture_24,U11,11,Neural network architecture diagram,diagram
+lecture_24,U12,12,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_24,U13,13,Hyperparameter tuning results table,table
+lecture_24,U14,14,Training data table with input-output pairs,table
+lecture_24,U15,15,Dataset statistics table showing samples and features,table
+lecture_24,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_24,U17,17,Visualization of decision boundary,diagram
+lecture_24,U18,18,y = wx + b,equation
+lecture_24,U19,19,Neural network architecture diagram,diagram
+lecture_24,U20,20,Introduction to linear regression and supervised learning,text
+lecture_25,U1,1,Neural network architecture diagram,diagram
+lecture_25,U2,2,Discussion of overfitting and model generalization,text
+lecture_25,U3,3,Comparison table of algorithm performance metrics,table
+lecture_25,U4,4,σ(x) = 1 / (1 + e^-x),equation
+lecture_25,U5,5,Dataset statistics table showing samples and features,table
+lecture_25,U6,6,Diagram showing regression line fitting data points,diagram
+lecture_25,U7,7,Evaluation metrics table including precision recall and F1,table
+lecture_25,U8,8,Diagram showing regression line fitting data points,diagram
+lecture_25,U9,9,Graphical illustration of gradient descent,diagram
+lecture_25,U10,10,Explanation of gradient descent optimization,text
+lecture_25,U11,11,Graphical illustration of gradient descent,diagram
+lecture_25,U12,12,Training data table with input-output pairs,table
+lecture_25,U13,13,∂L/∂w = (ŷ - y)x,equation
+lecture_25,U14,14,∂L/∂w = (ŷ - y)x,equation
+lecture_25,U15,15,Introduction to linear regression and supervised learning,text
+lecture_25,U16,16,Dataset statistics table showing samples and features,table
+lecture_25,U17,17,Explanation of feature scaling and normalization,text
+lecture_25,U18,18,y = wx + b,equation
+lecture_25,U19,19,Explanation of feature scaling and normalization,text
+lecture_25,U20,20,Introduction to linear regression and supervised learning,text
+lecture_26,U1,1,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_26,U2,2,Overview of neural networks and activation functions,text
+lecture_26,U3,3,Neural network architecture diagram,diagram
+lecture_26,U4,4,Introduction to linear regression and supervised learning,text
+lecture_26,U5,5,Neural network architecture diagram,diagram
+lecture_26,U6,6,Discussion of overfitting and model generalization,text
+lecture_26,U7,7,Introduction to linear regression and supervised learning,text
+lecture_26,U8,8,Hyperparameter tuning results table,table
+lecture_26,U9,9,Overview of neural networks and activation functions,text
+lecture_26,U10,10,Diagram showing regression line fitting data points,diagram
+lecture_26,U11,11,Dataset statistics table showing samples and features,table
+lecture_26,U12,12,Dataset statistics table showing samples and features,table
+lecture_26,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_26,U14,14,Overview of neural networks and activation functions,text
+lecture_26,U15,15,Introduction to linear regression and supervised learning,text
+lecture_26,U16,16,Graphical illustration of gradient descent,diagram
+lecture_26,U17,17,Training data table with input-output pairs,table
+lecture_26,U18,18,Explanation of gradient descent optimization,text
+lecture_26,U19,19,Dataset statistics table showing samples and features,table
+lecture_26,U20,20,Graphical illustration of gradient descent,diagram
+lecture_27,U1,1,σ(x) = 1 / (1 + e^-x),equation
+lecture_27,U2,2,Neural network architecture diagram,diagram
+lecture_27,U3,3,Flowchart of machine learning pipeline,diagram
+lecture_27,U4,4,Overview of neural networks and activation functions,text
+lecture_27,U5,5,Training data table with input-output pairs,table
+lecture_27,U6,6,Comparison table of algorithm performance metrics,table
+lecture_27,U7,7,Overview of neural networks and activation functions,text
+lecture_27,U8,8,Comparison table of algorithm performance metrics,table
+lecture_27,U9,9,Training data table with input-output pairs,table
+lecture_27,U10,10,Discussion of overfitting and model generalization,text
+lecture_27,U11,11,∂L/∂w = (ŷ - y)x,equation
+lecture_27,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_27,U13,13,Training data table with input-output pairs,table
+lecture_27,U14,14,Visualization of decision boundary,diagram
+lecture_27,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_27,U16,16,Graphical illustration of gradient descent,diagram
+lecture_27,U17,17,Neural network architecture diagram,diagram
+lecture_27,U18,18,Introduction to linear regression and supervised learning,text
+lecture_27,U19,19,Discussion of overfitting and model generalization,text
+lecture_27,U20,20,∂L/∂w = (ŷ - y)x,equation
+lecture_28,U1,1,y = wx + b,equation
+lecture_28,U2,2,Training data table with input-output pairs,table
+lecture_28,U3,3,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_28,U4,4,Overview of neural networks and activation functions,text
+lecture_28,U5,5,Training data table with input-output pairs,table
+lecture_28,U6,6,Evaluation metrics table including precision recall and F1,table
+lecture_28,U7,7,Comparison table of algorithm performance metrics,table
+lecture_28,U8,8,Explanation of feature scaling and normalization,text
+lecture_28,U9,9,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_28,U10,10,Discussion of overfitting and model generalization,text
+lecture_28,U11,11,Explanation of gradient descent optimization,text
+lecture_28,U12,12,y = wx + b,equation
+lecture_28,U13,13,Explanation of feature scaling and normalization,text
+lecture_28,U14,14,Evaluation metrics table including precision recall and F1,table
+lecture_28,U15,15,Comparison table of algorithm performance metrics,table
+lecture_28,U16,16,Training data table with input-output pairs,table
+lecture_28,U17,17,Neural network architecture diagram,diagram
+lecture_28,U18,18,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_28,U19,19,Diagram showing regression line fitting data points,diagram
+lecture_28,U20,20,σ(x) = 1 / (1 + e^-x),equation
+lecture_29,U1,1,Hyperparameter tuning results table,table
+lecture_29,U2,2,Comparison table of algorithm performance metrics,table
+lecture_29,U3,3,Neural network architecture diagram,diagram
+lecture_29,U4,4,y = wx + b,equation
+lecture_29,U5,5,Neural network architecture diagram,diagram
+lecture_29,U6,6,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_29,U7,7,σ(x) = 1 / (1 + e^-x),equation
+lecture_29,U8,8,Discussion of overfitting and model generalization,text
+lecture_29,U9,9,Explanation of gradient descent optimization,text
+lecture_29,U10,10,Discussion of overfitting and model generalization,text
+lecture_29,U11,11,Dataset statistics table showing samples and features,table
+lecture_29,U12,12,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_29,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_29,U14,14,Neural network architecture diagram,diagram
+lecture_29,U15,15,Explanation of gradient descent optimization,text
+lecture_29,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_29,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_29,U18,18,Neural network architecture diagram,diagram
+lecture_29,U19,19,Diagram showing regression line fitting data points,diagram
+lecture_29,U20,20,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_30,U1,1,Introduction to linear regression and supervised learning,text
+lecture_30,U2,2,Visualization of decision boundary,diagram
+lecture_30,U3,3,σ(x) = 1 / (1 + e^-x),equation
+lecture_30,U4,4,y = wx + b,equation
+lecture_30,U5,5,Discussion of overfitting and model generalization,text
+lecture_30,U6,6,Introduction to linear regression and supervised learning,text
+lecture_30,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_30,U8,8,Flowchart of machine learning pipeline,diagram
+lecture_30,U9,9,Explanation of gradient descent optimization,text
+lecture_30,U10,10,Explanation of gradient descent optimization,text
+lecture_30,U11,11,Visualization of decision boundary,diagram
+lecture_30,U12,12,Introduction to linear regression and supervised learning,text
+lecture_30,U13,13,Overview of neural networks and activation functions,text
+lecture_30,U14,14,Discussion of overfitting and model generalization,text
+lecture_30,U15,15,Diagram showing regression line fitting data points,diagram
+lecture_30,U16,16,Discussion of overfitting and model generalization,text
+lecture_30,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_30,U18,18,Discussion of overfitting and model generalization,text
+lecture_30,U19,19,Introduction to linear regression and supervised learning,text
+lecture_30,U20,20,Explanation of gradient descent optimization,text
+lecture_31,U1,1,Neural network architecture diagram,diagram
+lecture_31,U2,2,y = wx + b,equation
+lecture_31,U3,3,Overview of neural networks and activation functions,text
+lecture_31,U4,4,Graphical illustration of gradient descent,diagram
+lecture_31,U5,5,Graphical illustration of gradient descent,diagram
+lecture_31,U6,6,Neural network architecture diagram,diagram
+lecture_31,U7,7,Explanation of gradient descent optimization,text
+lecture_31,U8,8,Discussion of overfitting and model generalization,text
+lecture_31,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_31,U10,10,Explanation of gradient descent optimization,text
+lecture_31,U11,11,Discussion of overfitting and model generalization,text
+lecture_31,U12,12,Comparison table of algorithm performance metrics,table
+lecture_31,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_31,U14,14,Explanation of gradient descent optimization,text
+lecture_31,U15,15,Diagram showing regression line fitting data points,diagram
+lecture_31,U16,16,y = wx + b,equation
+lecture_31,U17,17,Comparison table of algorithm performance metrics,table
+lecture_31,U18,18,Flowchart of machine learning pipeline,diagram
+lecture_31,U19,19,Dataset statistics table showing samples and features,table
+lecture_31,U20,20,Explanation of feature scaling and normalization,text
+lecture_32,U1,1,Introduction to linear regression and supervised learning,text
+lecture_32,U2,2,Flowchart of machine learning pipeline,diagram
+lecture_32,U3,3,Training data table with input-output pairs,table
+lecture_32,U4,4,Diagram showing regression line fitting data points,diagram
+lecture_32,U5,5,Training data table with input-output pairs,table
+lecture_32,U6,6,Neural network architecture diagram,diagram
+lecture_32,U7,7,Graphical illustration of gradient descent,diagram
+lecture_32,U8,8,Diagram showing regression line fitting data points,diagram
+lecture_32,U9,9,Dataset statistics table showing samples and features,table
+lecture_32,U10,10,∂L/∂w = (ŷ - y)x,equation
+lecture_32,U11,11,Evaluation metrics table including precision recall and F1,table
+lecture_32,U12,12,Dataset statistics table showing samples and features,table
+lecture_32,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_32,U14,14,Training data table with input-output pairs,table
+lecture_32,U15,15,Explanation of feature scaling and normalization,text
+lecture_32,U16,16,Graphical illustration of gradient descent,diagram
+lecture_32,U17,17,Neural network architecture diagram,diagram
+lecture_32,U18,18,y = wx + b,equation
+lecture_32,U19,19,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_32,U20,20,σ(x) = 1 / (1 + e^-x),equation
+lecture_33,U1,1,Explanation of gradient descent optimization,text
+lecture_33,U2,2,Introduction to linear regression and supervised learning,text
+lecture_33,U3,3,Training data table with input-output pairs,table
+lecture_33,U4,4,Training data table with input-output pairs,table
+lecture_33,U5,5,Explanation of gradient descent optimization,text
+lecture_33,U6,6,Explanation of gradient descent optimization,text
+lecture_33,U7,7,Comparison table of algorithm performance metrics,table
+lecture_33,U8,8,Hyperparameter tuning results table,table
+lecture_33,U9,9,σ(x) = 1 / (1 + e^-x),equation
+lecture_33,U10,10,Visualization of decision boundary,diagram
+lecture_33,U11,11,Flowchart of machine learning pipeline,diagram
+lecture_33,U12,12,y = wx + b,equation
+lecture_33,U13,13,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_33,U14,14,Graphical illustration of gradient descent,diagram
+lecture_33,U15,15,Dataset statistics table showing samples and features,table
+lecture_33,U16,16,y = wx + b,equation
+lecture_33,U17,17,Graphical illustration of gradient descent,diagram
+lecture_33,U18,18,∂L/∂w = (ŷ - y)x,equation
+lecture_33,U19,19,Comparison table of algorithm performance metrics,table
+lecture_33,U20,20,Visualization of decision boundary,diagram
+lecture_34,U1,1,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_34,U2,2,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_34,U3,3,Diagram showing regression line fitting data points,diagram
+lecture_34,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_34,U5,5,y = wx + b,equation
+lecture_34,U6,6,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_34,U7,7,Comparison table of algorithm performance metrics,table
+lecture_34,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_34,U9,9,Overview of neural networks and activation functions,text
+lecture_34,U10,10,y = wx + b,equation
+lecture_34,U11,11,Explanation of gradient descent optimization,text
+lecture_34,U12,12,Discussion of overfitting and model generalization,text
+lecture_34,U13,13,Overview of neural networks and activation functions,text
+lecture_34,U14,14,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_34,U15,15,Explanation of gradient descent optimization,text
+lecture_34,U16,16,Evaluation metrics table including precision recall and F1,table
+lecture_34,U17,17,Hyperparameter tuning results table,table
+lecture_34,U18,18,Diagram showing regression line fitting data points,diagram
+lecture_34,U19,19,Diagram showing regression line fitting data points,diagram
+lecture_34,U20,20,Neural network architecture diagram,diagram
+lecture_35,U1,1,Hyperparameter tuning results table,table
+lecture_35,U2,2,Overview of neural networks and activation functions,text
+lecture_35,U3,3,Diagram showing regression line fitting data points,diagram
+lecture_35,U4,4,Visualization of decision boundary,diagram
+lecture_35,U5,5,y = wx + b,equation
+lecture_35,U6,6,Explanation of feature scaling and normalization,text
+lecture_35,U7,7,Visualization of decision boundary,diagram
+lecture_35,U8,8,Graphical illustration of gradient descent,diagram
+lecture_35,U9,9,Discussion of overfitting and model generalization,text
+lecture_35,U10,10,Graphical illustration of gradient descent,diagram
+lecture_35,U11,11,Neural network architecture diagram,diagram
+lecture_35,U12,12,Graphical illustration of gradient descent,diagram
+lecture_35,U13,13,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_35,U14,14,Visualization of decision boundary,diagram
+lecture_35,U15,15,Neural network architecture diagram,diagram
+lecture_35,U16,16,∂L/∂w = (ŷ - y)x,equation
+lecture_35,U17,17,Dataset statistics table showing samples and features,table
+lecture_35,U18,18,y = wx + b,equation
+lecture_35,U19,19,Flowchart of machine learning pipeline,diagram
+lecture_35,U20,20,Neural network architecture diagram,diagram
+lecture_36,U1,1,Flowchart of machine learning pipeline,diagram
+lecture_36,U2,2,Evaluation metrics table including precision recall and F1,table
+lecture_36,U3,3,Discussion of overfitting and model generalization,text
+lecture_36,U4,4,Dataset statistics table showing samples and features,table
+lecture_36,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_36,U6,6,Visualization of decision boundary,diagram
+lecture_36,U7,7,Visualization of decision boundary,diagram
+lecture_36,U8,8,σ(x) = 1 / (1 + e^-x),equation
+lecture_36,U9,9,Dataset statistics table showing samples and features,table
+lecture_36,U10,10,Overview of neural networks and activation functions,text
+lecture_36,U11,11,Introduction to linear regression and supervised learning,text
+lecture_36,U12,12,Overview of neural networks and activation functions,text
+lecture_36,U13,13,Explanation of feature scaling and normalization,text
+lecture_36,U14,14,Hyperparameter tuning results table,table
+lecture_36,U15,15,Overview of neural networks and activation functions,text
+lecture_36,U16,16,Visualization of decision boundary,diagram
+lecture_36,U17,17,Graphical illustration of gradient descent,diagram
+lecture_36,U18,18,Explanation of gradient descent optimization,text
+lecture_36,U19,19,y = wx + b,equation
+lecture_36,U20,20,Diagram showing regression line fitting data points,diagram
+lecture_37,U1,1,y = wx + b,equation
+lecture_37,U2,2,Training data table with input-output pairs,table
+lecture_37,U3,3,Evaluation metrics table including precision recall and F1,table
+lecture_37,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_37,U5,5,Flowchart of machine learning pipeline,diagram
+lecture_37,U6,6,Comparison table of algorithm performance metrics,table
+lecture_37,U7,7,Introduction to linear regression and supervised learning,text
+lecture_37,U8,8,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_37,U9,9,Graphical illustration of gradient descent,diagram
+lecture_37,U10,10,Overview of neural networks and activation functions,text
+lecture_37,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_37,U12,12,Explanation of gradient descent optimization,text
+lecture_37,U13,13,∂L/∂w = (ŷ - y)x,equation
+lecture_37,U14,14,Training data table with input-output pairs,table
+lecture_37,U15,15,Hyperparameter tuning results table,table
+lecture_37,U16,16,Graphical illustration of gradient descent,diagram
+lecture_37,U17,17,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_37,U18,18,Introduction to linear regression and supervised learning,text
+lecture_37,U19,19,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_37,U20,20,σ(x) = 1 / (1 + e^-x),equation
+lecture_38,U1,1,Visualization of decision boundary,diagram
+lecture_38,U2,2,Dataset statistics table showing samples and features,table
+lecture_38,U3,3,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_38,U4,4,Flowchart of machine learning pipeline,diagram
+lecture_38,U5,5,Neural network architecture diagram,diagram
+lecture_38,U6,6,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_38,U7,7,Visualization of decision boundary,diagram
+lecture_38,U8,8,∂L/∂w = (ŷ - y)x,equation
+lecture_38,U9,9,∂L/∂w = (ŷ - y)x,equation
+lecture_38,U10,10,Graphical illustration of gradient descent,diagram
+lecture_38,U11,11,σ(x) = 1 / (1 + e^-x),equation
+lecture_38,U12,12,Training data table with input-output pairs,table
+lecture_38,U13,13,Diagram showing regression line fitting data points,diagram
+lecture_38,U14,14,Comparison table of algorithm performance metrics,table
+lecture_38,U15,15,Discussion of overfitting and model generalization,text
+lecture_38,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_38,U17,17,y = wx + b,equation
+lecture_38,U18,18,Neural network architecture diagram,diagram
+lecture_38,U19,19,Training data table with input-output pairs,table
+lecture_38,U20,20,Discussion of overfitting and model generalization,text
+lecture_39,U1,1,Discussion of overfitting and model generalization,text
+lecture_39,U2,2,Discussion of overfitting and model generalization,text
+lecture_39,U3,3,Graphical illustration of gradient descent,diagram
+lecture_39,U4,4,Introduction to linear regression and supervised learning,text
+lecture_39,U5,5,Explanation of feature scaling and normalization,text
+lecture_39,U6,6,Visualization of decision boundary,diagram
+lecture_39,U7,7,∂L/∂w = (ŷ - y)x,equation
+lecture_39,U8,8,Flowchart of machine learning pipeline,diagram
+lecture_39,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_39,U10,10,Neural network architecture diagram,diagram
+lecture_39,U11,11,Overview of neural networks and activation functions,text
+lecture_39,U12,12,Comparison table of algorithm performance metrics,table
+lecture_39,U13,13,Flowchart of machine learning pipeline,diagram
+lecture_39,U14,14,Evaluation metrics table including precision recall and F1,table
+lecture_39,U15,15,Visualization of decision boundary,diagram
+lecture_39,U16,16,Training data table with input-output pairs,table
+lecture_39,U17,17,Explanation of feature scaling and normalization,text
+lecture_39,U18,18,Overview of neural networks and activation functions,text
+lecture_39,U19,19,Overview of neural networks and activation functions,text
+lecture_39,U20,20,Diagram showing regression line fitting data points,diagram
+lecture_40,U1,1,Graphical illustration of gradient descent,diagram
+lecture_40,U2,2,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_40,U3,3,Dataset statistics table showing samples and features,table
+lecture_40,U4,4,Neural network architecture diagram,diagram
+lecture_40,U5,5,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_40,U6,6,y = wx + b,equation
+lecture_40,U7,7,y = wx + b,equation
+lecture_40,U8,8,Dataset statistics table showing samples and features,table
+lecture_40,U9,9,Neural network architecture diagram,diagram
+lecture_40,U10,10,Evaluation metrics table including precision recall and F1,table
+lecture_40,U11,11,Explanation of feature scaling and normalization,text
+lecture_40,U12,12,y = wx + b,equation
+lecture_40,U13,13,Flowchart of machine learning pipeline,diagram
+lecture_40,U14,14,Dataset statistics table showing samples and features,table
+lecture_40,U15,15,Hyperparameter tuning results table,table
+lecture_40,U16,16,Overview of neural networks and activation functions,text
+lecture_40,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_40,U18,18,Flowchart of machine learning pipeline,diagram
+lecture_40,U19,19,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_40,U20,20,Overview of neural networks and activation functions,text
+lecture_41,U1,1,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_41,U2,2,σ(x) = 1 / (1 + e^-x),equation
+lecture_41,U3,3,y = wx + b,equation
+lecture_41,U4,4,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_41,U5,5,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_41,U6,6,Explanation of feature scaling and normalization,text
+lecture_41,U7,7,Flowchart of machine learning pipeline,diagram
+lecture_41,U8,8,Explanation of gradient descent optimization,text
+lecture_41,U9,9,Hyperparameter tuning results table,table
+lecture_41,U10,10,y = wx + b,equation
+lecture_41,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_41,U12,12,Training data table with input-output pairs,table
+lecture_41,U13,13,Diagram showing regression line fitting data points,diagram
+lecture_41,U14,14,Introduction to linear regression and supervised learning,text
+lecture_41,U15,15,Explanation of feature scaling and normalization,text
+lecture_41,U16,16,Training data table with input-output pairs,table
+lecture_41,U17,17,Explanation of gradient descent optimization,text
+lecture_41,U18,18,σ(x) = 1 / (1 + e^-x),equation
+lecture_41,U19,19,Neural network architecture diagram,diagram
+lecture_41,U20,20,Diagram showing regression line fitting data points,diagram
+lecture_42,U1,1,Discussion of overfitting and model generalization,text
+lecture_42,U2,2,σ(x) = 1 / (1 + e^-x),equation
+lecture_42,U3,3,Dataset statistics table showing samples and features,table
+lecture_42,U4,4,Comparison table of algorithm performance metrics,table
+lecture_42,U5,5,Overview of neural networks and activation functions,text
+lecture_42,U6,6,σ(x) = 1 / (1 + e^-x),equation
+lecture_42,U7,7,Discussion of overfitting and model generalization,text
+lecture_42,U8,8,Visualization of decision boundary,diagram
+lecture_42,U9,9,Explanation of gradient descent optimization,text
+lecture_42,U10,10,Neural network architecture diagram,diagram
+lecture_42,U11,11,y = wx + b,equation
+lecture_42,U12,12,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_42,U13,13,Training data table with input-output pairs,table
+lecture_42,U14,14,Evaluation metrics table including precision recall and F1,table
+lecture_42,U15,15,Overview of neural networks and activation functions,text
+lecture_42,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_42,U17,17,Graphical illustration of gradient descent,diagram
+lecture_42,U18,18,Discussion of overfitting and model generalization,text
+lecture_42,U19,19,Explanation of gradient descent optimization,text
+lecture_42,U20,20,Evaluation metrics table including precision recall and F1,table
+lecture_43,U1,1,Comparison table of algorithm performance metrics,table
+lecture_43,U2,2,Hyperparameter tuning results table,table
+lecture_43,U3,3,Explanation of gradient descent optimization,text
+lecture_43,U4,4,Introduction to linear regression and supervised learning,text
+lecture_43,U5,5,Introduction to linear regression and supervised learning,text
+lecture_43,U6,6,Discussion of overfitting and model generalization,text
+lecture_43,U7,7,Training data table with input-output pairs,table
+lecture_43,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_43,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_43,U10,10,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_43,U11,11,Evaluation metrics table including precision recall and F1,table
+lecture_43,U12,12,Dataset statistics table showing samples and features,table
+lecture_43,U13,13,Dataset statistics table showing samples and features,table
+lecture_43,U14,14,Flowchart of machine learning pipeline,diagram
+lecture_43,U15,15,Explanation of feature scaling and normalization,text
+lecture_43,U16,16,y = wx + b,equation
+lecture_43,U17,17,Overview of neural networks and activation functions,text
+lecture_43,U18,18,Introduction to linear regression and supervised learning,text
+lecture_43,U19,19,Explanation of gradient descent optimization,text
+lecture_43,U20,20,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_44,U1,1,Flowchart of machine learning pipeline,diagram
+lecture_44,U2,2,Hyperparameter tuning results table,table
+lecture_44,U3,3,Neural network architecture diagram,diagram
+lecture_44,U4,4,Dataset statistics table showing samples and features,table
+lecture_44,U5,5,Explanation of gradient descent optimization,text
+lecture_44,U6,6,y = wx + b,equation
+lecture_44,U7,7,∂L/∂w = (ŷ - y)x,equation
+lecture_44,U8,8,Explanation of feature scaling and normalization,text
+lecture_44,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_44,U10,10,Training data table with input-output pairs,table
+lecture_44,U11,11,Comparison table of algorithm performance metrics,table
+lecture_44,U12,12,Neural network architecture diagram,diagram
+lecture_44,U13,13,Training data table with input-output pairs,table
+lecture_44,U14,14,Diagram showing regression line fitting data points,diagram
+lecture_44,U15,15,∂L/∂w = (ŷ - y)x,equation
+lecture_44,U16,16,∂L/∂w = (ŷ - y)x,equation
+lecture_44,U17,17,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_44,U18,18,Evaluation metrics table including precision recall and F1,table
+lecture_44,U19,19,Hyperparameter tuning results table,table
+lecture_44,U20,20,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_45,U1,1,Visualization of decision boundary,diagram
+lecture_45,U2,2,∂L/∂w = (ŷ - y)x,equation
+lecture_45,U3,3,Flowchart of machine learning pipeline,diagram
+lecture_45,U4,4,Discussion of overfitting and model generalization,text
+lecture_45,U5,5,Comparison table of algorithm performance metrics,table
+lecture_45,U6,6,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_45,U7,7,Visualization of decision boundary,diagram
+lecture_45,U8,8,Dataset statistics table showing samples and features,table
+lecture_45,U9,9,Discussion of overfitting and model generalization,text
+lecture_45,U10,10,Graphical illustration of gradient descent,diagram
+lecture_45,U11,11,Evaluation metrics table including precision recall and F1,table
+lecture_45,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_45,U13,13,Training data table with input-output pairs,table
+lecture_45,U14,14,Hyperparameter tuning results table,table
+lecture_45,U15,15,∂L/∂w = (ŷ - y)x,equation
+lecture_45,U16,16,Visualization of decision boundary,diagram
+lecture_45,U17,17,Explanation of feature scaling and normalization,text
+lecture_45,U18,18,σ(x) = 1 / (1 + e^-x),equation
+lecture_45,U19,19,Explanation of gradient descent optimization,text
+lecture_45,U20,20,Hyperparameter tuning results table,table
+lecture_46,U1,1,Graphical illustration of gradient descent,diagram
+lecture_46,U2,2,Overview of neural networks and activation functions,text
+lecture_46,U3,3,y = wx + b,equation
+lecture_46,U4,4,Overview of neural networks and activation functions,text
+lecture_46,U5,5,Neural network architecture diagram,diagram
+lecture_46,U6,6,y = wx + b,equation
+lecture_46,U7,7,y = wx + b,equation
+lecture_46,U8,8,σ(x) = 1 / (1 + e^-x),equation
+lecture_46,U9,9,Dataset statistics table showing samples and features,table
+lecture_46,U10,10,Neural network architecture diagram,diagram
+lecture_46,U11,11,Neural network architecture diagram,diagram
+lecture_46,U12,12,Explanation of feature scaling and normalization,text
+lecture_46,U13,13,Flowchart of machine learning pipeline,diagram
+lecture_46,U14,14,Introduction to linear regression and supervised learning,text
+lecture_46,U15,15,Explanation of gradient descent optimization,text
+lecture_46,U16,16,Comparison table of algorithm performance metrics,table
+lecture_46,U17,17,y = wx + b,equation
+lecture_46,U18,18,Neural network architecture diagram,diagram
+lecture_46,U19,19,Graphical illustration of gradient descent,diagram
+lecture_46,U20,20,Visualization of decision boundary,diagram
+lecture_47,U1,1,y = wx + b,equation
+lecture_47,U2,2,Neural network architecture diagram,diagram
+lecture_47,U3,3,Neural network architecture diagram,diagram
+lecture_47,U4,4,Comparison table of algorithm performance metrics,table
+lecture_47,U5,5,Flowchart of machine learning pipeline,diagram
+lecture_47,U6,6,σ(x) = 1 / (1 + e^-x),equation
+lecture_47,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_47,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_47,U9,9,Comparison table of algorithm performance metrics,table
+lecture_47,U10,10,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_47,U11,11,Comparison table of algorithm performance metrics,table
+lecture_47,U12,12,Comparison table of algorithm performance metrics,table
+lecture_47,U13,13,Visualization of decision boundary,diagram
+lecture_47,U14,14,Hyperparameter tuning results table,table
+lecture_47,U15,15,Hyperparameter tuning results table,table
+lecture_47,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_47,U17,17,Flowchart of machine learning pipeline,diagram
+lecture_47,U18,18,Hyperparameter tuning results table,table
+lecture_47,U19,19,Introduction to linear regression and supervised learning,text
+lecture_47,U20,20,Explanation of gradient descent optimization,text
+lecture_48,U1,1,Flowchart of machine learning pipeline,diagram
+lecture_48,U2,2,Graphical illustration of gradient descent,diagram
+lecture_48,U3,3,y = wx + b,equation
+lecture_48,U4,4,Hyperparameter tuning results table,table
+lecture_48,U5,5,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_48,U6,6,Visualization of decision boundary,diagram
+lecture_48,U7,7,Training data table with input-output pairs,table
+lecture_48,U8,8,Comparison table of algorithm performance metrics,table
+lecture_48,U9,9,Explanation of feature scaling and normalization,text
+lecture_48,U10,10,Discussion of overfitting and model generalization,text
+lecture_48,U11,11,Training data table with input-output pairs,table
+lecture_48,U12,12,Introduction to linear regression and supervised learning,text
+lecture_48,U13,13,∂L/∂w = (ŷ - y)x,equation
+lecture_48,U14,14,Explanation of gradient descent optimization,text
+lecture_48,U15,15,Training data table with input-output pairs,table
+lecture_48,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_48,U17,17,Comparison table of algorithm performance metrics,table
+lecture_48,U18,18,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_48,U19,19,Overview of neural networks and activation functions,text
+lecture_48,U20,20,Graphical illustration of gradient descent,diagram
+lecture_49,U1,1,Visualization of decision boundary,diagram
+lecture_49,U2,2,y = wx + b,equation
+lecture_49,U3,3,Introduction to linear regression and supervised learning,text
+lecture_49,U4,4,Flowchart of machine learning pipeline,diagram
+lecture_49,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_49,U6,6,σ(x) = 1 / (1 + e^-x),equation
+lecture_49,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_49,U8,8,Introduction to linear regression and supervised learning,text
+lecture_49,U9,9,Hyperparameter tuning results table,table
+lecture_49,U10,10,Training data table with input-output pairs,table
+lecture_49,U11,11,Training data table with input-output pairs,table
+lecture_49,U12,12,Hyperparameter tuning results table,table
+lecture_49,U13,13,Diagram showing regression line fitting data points,diagram
+lecture_49,U14,14,Evaluation metrics table including precision recall and F1,table
+lecture_49,U15,15,Neural network architecture diagram,diagram
+lecture_49,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_49,U17,17,Training data table with input-output pairs,table
+lecture_49,U18,18,y = wx + b,equation
+lecture_49,U19,19,Visualization of decision boundary,diagram
+lecture_49,U20,20,Neural network architecture diagram,diagram
+lecture_50,U1,1,σ(x) = 1 / (1 + e^-x),equation
+lecture_50,U2,2,Neural network architecture diagram,diagram
+lecture_50,U3,3,y = wx + b,equation
+lecture_50,U4,4,Explanation of feature scaling and normalization,text
+lecture_50,U5,5,Flowchart of machine learning pipeline,diagram
+lecture_50,U6,6,Evaluation metrics table including precision recall and F1,table
+lecture_50,U7,7,Discussion of overfitting and model generalization,text
+lecture_50,U8,8,Dataset statistics table showing samples and features,table
+lecture_50,U9,9,Diagram showing regression line fitting data points,diagram
+lecture_50,U10,10,Dataset statistics table showing samples and features,table
+lecture_50,U11,11,Dataset statistics table showing samples and features,table
+lecture_50,U12,12,Flowchart of machine learning pipeline,diagram
+lecture_50,U13,13,Introduction to linear regression and supervised learning,text
+lecture_50,U14,14,Diagram showing regression line fitting data points,diagram
+lecture_50,U15,15,Discussion of overfitting and model generalization,text
+lecture_50,U16,16,Discussion of overfitting and model generalization,text
+lecture_50,U17,17,Graphical illustration of gradient descent,diagram
+lecture_50,U18,18,Dataset statistics table showing samples and features,table
+lecture_50,U19,19,Explanation of feature scaling and normalization,text
+lecture_50,U20,20,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_51,U1,1,Introduction to linear regression and supervised learning,text
+lecture_51,U2,2,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_51,U3,3,Discussion of overfitting and model generalization,text
+lecture_51,U4,4,Discussion of overfitting and model generalization,text
+lecture_51,U5,5,Flowchart of machine learning pipeline,diagram
+lecture_51,U6,6,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_51,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_51,U8,8,Discussion of overfitting and model generalization,text
+lecture_51,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_51,U10,10,Flowchart of machine learning pipeline,diagram
+lecture_51,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_51,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_51,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_51,U14,14,Graphical illustration of gradient descent,diagram
+lecture_51,U15,15,Visualization of decision boundary,diagram
+lecture_51,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_51,U17,17,y = wx + b,equation
+lecture_51,U18,18,Graphical illustration of gradient descent,diagram
+lecture_51,U19,19,Visualization of decision boundary,diagram
+lecture_51,U20,20,Introduction to linear regression and supervised learning,text
+lecture_52,U1,1,Introduction to linear regression and supervised learning,text
+lecture_52,U2,2,Explanation of feature scaling and normalization,text
+lecture_52,U3,3,Visualization of decision boundary,diagram
+lecture_52,U4,4,Discussion of overfitting and model generalization,text
+lecture_52,U5,5,Diagram showing regression line fitting data points,diagram
+lecture_52,U6,6,Overview of neural networks and activation functions,text
+lecture_52,U7,7,Evaluation metrics table including precision recall and F1,table
+lecture_52,U8,8,Overview of neural networks and activation functions,text
+lecture_52,U9,9,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_52,U10,10,Neural network architecture diagram,diagram
+lecture_52,U11,11,Neural network architecture diagram,diagram
+lecture_52,U12,12,Diagram showing regression line fitting data points,diagram
+lecture_52,U13,13,Overview of neural networks and activation functions,text
+lecture_52,U14,14,Neural network architecture diagram,diagram
+lecture_52,U15,15,∂L/∂w = (ŷ - y)x,equation
+lecture_52,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_52,U17,17,Overview of neural networks and activation functions,text
+lecture_52,U18,18,Neural network architecture diagram,diagram
+lecture_52,U19,19,Dataset statistics table showing samples and features,table
+lecture_52,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_53,U1,1,Evaluation metrics table including precision recall and F1,table
+lecture_53,U2,2,Discussion of overfitting and model generalization,text
+lecture_53,U3,3,Visualization of decision boundary,diagram
+lecture_53,U4,4,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_53,U5,5,Flowchart of machine learning pipeline,diagram
+lecture_53,U6,6,Discussion of overfitting and model generalization,text
+lecture_53,U7,7,Neural network architecture diagram,diagram
+lecture_53,U8,8,Explanation of feature scaling and normalization,text
+lecture_53,U9,9,Explanation of feature scaling and normalization,text
+lecture_53,U10,10,Explanation of feature scaling and normalization,text
+lecture_53,U11,11,Diagram showing regression line fitting data points,diagram
+lecture_53,U12,12,∂L/∂w = (ŷ - y)x,equation
+lecture_53,U13,13,y = wx + b,equation
+lecture_53,U14,14,Dataset statistics table showing samples and features,table
+lecture_53,U15,15,Diagram showing regression line fitting data points,diagram
+lecture_53,U16,16,Overview of neural networks and activation functions,text
+lecture_53,U17,17,Explanation of gradient descent optimization,text
+lecture_53,U18,18,Training data table with input-output pairs,table
+lecture_53,U19,19,Training data table with input-output pairs,table
+lecture_53,U20,20,Comparison table of algorithm performance metrics,table
+lecture_54,U1,1,Introduction to linear regression and supervised learning,text
+lecture_54,U2,2,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_54,U3,3,σ(x) = 1 / (1 + e^-x),equation
+lecture_54,U4,4,Hyperparameter tuning results table,table
+lecture_54,U5,5,y = wx + b,equation
+lecture_54,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_54,U7,7,Discussion of overfitting and model generalization,text
+lecture_54,U8,8,Graphical illustration of gradient descent,diagram
+lecture_54,U9,9,∂L/∂w = (ŷ - y)x,equation
+lecture_54,U10,10,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_54,U11,11,y = wx + b,equation
+lecture_54,U12,12,Flowchart of machine learning pipeline,diagram
+lecture_54,U13,13,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_54,U14,14,y = wx + b,equation
+lecture_54,U15,15,Neural network architecture diagram,diagram
+lecture_54,U16,16,Visualization of decision boundary,diagram
+lecture_54,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_54,U18,18,Visualization of decision boundary,diagram
+lecture_54,U19,19,∂L/∂w = (ŷ - y)x,equation
+lecture_54,U20,20,Explanation of feature scaling and normalization,text
+lecture_55,U1,1,Training data table with input-output pairs,table
+lecture_55,U2,2,σ(x) = 1 / (1 + e^-x),equation
+lecture_55,U3,3,Neural network architecture diagram,diagram
+lecture_55,U4,4,Comparison table of algorithm performance metrics,table
+lecture_55,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_55,U6,6,Neural network architecture diagram,diagram
+lecture_55,U7,7,y = wx + b,equation
+lecture_55,U8,8,Neural network architecture diagram,diagram
+lecture_55,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_55,U10,10,Overview of neural networks and activation functions,text
+lecture_55,U11,11,∂L/∂w = (ŷ - y)x,equation
+lecture_55,U12,12,Explanation of feature scaling and normalization,text
+lecture_55,U13,13,Flowchart of machine learning pipeline,diagram
+lecture_55,U14,14,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_55,U15,15,y = wx + b,equation
+lecture_55,U16,16,Evaluation metrics table including precision recall and F1,table
+lecture_55,U17,17,Explanation of gradient descent optimization,text
+lecture_55,U18,18,Training data table with input-output pairs,table
+lecture_55,U19,19,Diagram showing regression line fitting data points,diagram
+lecture_55,U20,20,Explanation of gradient descent optimization,text
+lecture_56,U1,1,Explanation of gradient descent optimization,text
+lecture_56,U2,2,Visualization of decision boundary,diagram
+lecture_56,U3,3,Visualization of decision boundary,diagram
+lecture_56,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_56,U5,5,Visualization of decision boundary,diagram
+lecture_56,U6,6,Diagram showing regression line fitting data points,diagram
+lecture_56,U7,7,Graphical illustration of gradient descent,diagram
+lecture_56,U8,8,y = wx + b,equation
+lecture_56,U9,9,Training data table with input-output pairs,table
+lecture_56,U10,10,∂L/∂w = (ŷ - y)x,equation
+lecture_56,U11,11,Hyperparameter tuning results table,table
+lecture_56,U12,12,Overview of neural networks and activation functions,text
+lecture_56,U13,13,Discussion of overfitting and model generalization,text
+lecture_56,U14,14,Explanation of feature scaling and normalization,text
+lecture_56,U15,15,Explanation of gradient descent optimization,text
+lecture_56,U16,16,Introduction to linear regression and supervised learning,text
+lecture_56,U17,17,Hyperparameter tuning results table,table
+lecture_56,U18,18,Graphical illustration of gradient descent,diagram
+lecture_56,U19,19,σ(x) = 1 / (1 + e^-x),equation
+lecture_56,U20,20,σ(x) = 1 / (1 + e^-x),equation
+lecture_57,U1,1,Evaluation metrics table including precision recall and F1,table
+lecture_57,U2,2,Overview of neural networks and activation functions,text
+lecture_57,U3,3,Neural network architecture diagram,diagram
+lecture_57,U4,4,Overview of neural networks and activation functions,text
+lecture_57,U5,5,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_57,U6,6,σ(x) = 1 / (1 + e^-x),equation
+lecture_57,U7,7,Explanation of feature scaling and normalization,text
+lecture_57,U8,8,y = wx + b,equation
+lecture_57,U9,9,Graphical illustration of gradient descent,diagram
+lecture_57,U10,10,Flowchart of machine learning pipeline,diagram
+lecture_57,U11,11,∂L/∂w = (ŷ - y)x,equation
+lecture_57,U12,12,Explanation of gradient descent optimization,text
+lecture_57,U13,13,Discussion of overfitting and model generalization,text
+lecture_57,U14,14,Graphical illustration of gradient descent,diagram
+lecture_57,U15,15,Visualization of decision boundary,diagram
+lecture_57,U16,16,Introduction to linear regression and supervised learning,text
+lecture_57,U17,17,σ(x) = 1 / (1 + e^-x),equation
+lecture_57,U18,18,Explanation of feature scaling and normalization,text
+lecture_57,U19,19,Neural network architecture diagram,diagram
+lecture_57,U20,20,Visualization of decision boundary,diagram
+lecture_58,U1,1,Discussion of overfitting and model generalization,text
+lecture_58,U2,2,Comparison table of algorithm performance metrics,table
+lecture_58,U3,3,y = wx + b,equation
+lecture_58,U4,4,Comparison table of algorithm performance metrics,table
+lecture_58,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_58,U6,6,Graphical illustration of gradient descent,diagram
+lecture_58,U7,7,Dataset statistics table showing samples and features,table
+lecture_58,U8,8,y = wx + b,equation
+lecture_58,U9,9,Comparison table of algorithm performance metrics,table
+lecture_58,U10,10,Diagram showing regression line fitting data points,diagram
+lecture_58,U11,11,Explanation of feature scaling and normalization,text
+lecture_58,U12,12,Diagram showing regression line fitting data points,diagram
+lecture_58,U13,13,Discussion of overfitting and model generalization,text
+lecture_58,U14,14,Comparison table of algorithm performance metrics,table
+lecture_58,U15,15,Hyperparameter tuning results table,table
+lecture_58,U16,16,Overview of neural networks and activation functions,text
+lecture_58,U17,17,σ(x) = 1 / (1 + e^-x),equation
+lecture_58,U18,18,Introduction to linear regression and supervised learning,text
+lecture_58,U19,19,Evaluation metrics table including precision recall and F1,table
+lecture_58,U20,20,Discussion of overfitting and model generalization,text
+lecture_59,U1,1,σ(x) = 1 / (1 + e^-x),equation
+lecture_59,U2,2,Explanation of feature scaling and normalization,text
+lecture_59,U3,3,σ(x) = 1 / (1 + e^-x),equation
+lecture_59,U4,4,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_59,U5,5,Visualization of decision boundary,diagram
+lecture_59,U6,6,Graphical illustration of gradient descent,diagram
+lecture_59,U7,7,Flowchart of machine learning pipeline,diagram
+lecture_59,U8,8,Introduction to linear regression and supervised learning,text
+lecture_59,U9,9,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_59,U10,10,∂L/∂w = (ŷ - y)x,equation
+lecture_59,U11,11,Hyperparameter tuning results table,table
+lecture_59,U12,12,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_59,U13,13,Introduction to linear regression and supervised learning,text
+lecture_59,U14,14,Training data table with input-output pairs,table
+lecture_59,U15,15,Flowchart of machine learning pipeline,diagram
+lecture_59,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_59,U17,17,σ(x) = 1 / (1 + e^-x),equation
+lecture_59,U18,18,Graphical illustration of gradient descent,diagram
+lecture_59,U19,19,Comparison table of algorithm performance metrics,table
+lecture_59,U20,20,Neural network architecture diagram,diagram
+lecture_60,U1,1,Explanation of gradient descent optimization,text
+lecture_60,U2,2,Graphical illustration of gradient descent,diagram
+lecture_60,U3,3,Visualization of decision boundary,diagram
+lecture_60,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_60,U5,5,Graphical illustration of gradient descent,diagram
+lecture_60,U6,6,Evaluation metrics table including precision recall and F1,table
+lecture_60,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_60,U8,8,σ(x) = 1 / (1 + e^-x),equation
+lecture_60,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_60,U10,10,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_60,U11,11,Dataset statistics table showing samples and features,table
+lecture_60,U12,12,Hyperparameter tuning results table,table
+lecture_60,U13,13,Introduction to linear regression and supervised learning,text
+lecture_60,U14,14,Flowchart of machine learning pipeline,diagram
+lecture_60,U15,15,Discussion of overfitting and model generalization,text
+lecture_60,U16,16,Discussion of overfitting and model generalization,text
+lecture_60,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_60,U18,18,∂L/∂w = (ŷ - y)x,equation
+lecture_60,U19,19,Neural network architecture diagram,diagram
+lecture_60,U20,20,σ(x) = 1 / (1 + e^-x),equation
+lecture_61,U1,1,Training data table with input-output pairs,table
+lecture_61,U2,2,Explanation of feature scaling and normalization,text
+lecture_61,U3,3,∂L/∂w = (ŷ - y)x,equation
+lecture_61,U4,4,Explanation of gradient descent optimization,text
+lecture_61,U5,5,Visualization of decision boundary,diagram
+lecture_61,U6,6,Visualization of decision boundary,diagram
+lecture_61,U7,7,Explanation of gradient descent optimization,text
+lecture_61,U8,8,Explanation of feature scaling and normalization,text
+lecture_61,U9,9,Hyperparameter tuning results table,table
+lecture_61,U10,10,y = wx + b,equation
+lecture_61,U11,11,Dataset statistics table showing samples and features,table
+lecture_61,U12,12,Introduction to linear regression and supervised learning,text
+lecture_61,U13,13,Explanation of feature scaling and normalization,text
+lecture_61,U14,14,Introduction to linear regression and supervised learning,text
+lecture_61,U15,15,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_61,U16,16,Evaluation metrics table including precision recall and F1,table
+lecture_61,U17,17,Flowchart of machine learning pipeline,diagram
+lecture_61,U18,18,Diagram showing regression line fitting data points,diagram
+lecture_61,U19,19,Overview of neural networks and activation functions,text
+lecture_61,U20,20,Dataset statistics table showing samples and features,table
+lecture_62,U1,1,Flowchart of machine learning pipeline,diagram
+lecture_62,U2,2,Hyperparameter tuning results table,table
+lecture_62,U3,3,Neural network architecture diagram,diagram
+lecture_62,U4,4,Hyperparameter tuning results table,table
+lecture_62,U5,5,Overview of neural networks and activation functions,text
+lecture_62,U6,6,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_62,U7,7,Visualization of decision boundary,diagram
+lecture_62,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_62,U9,9,Dataset statistics table showing samples and features,table
+lecture_62,U10,10,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_62,U11,11,∂L/∂w = (ŷ - y)x,equation
+lecture_62,U12,12,Comparison table of algorithm performance metrics,table
+lecture_62,U13,13,Graphical illustration of gradient descent,diagram
+lecture_62,U14,14,Comparison table of algorithm performance metrics,table
+lecture_62,U15,15,Explanation of gradient descent optimization,text
+lecture_62,U16,16,Explanation of gradient descent optimization,text
+lecture_62,U17,17,Discussion of overfitting and model generalization,text
+lecture_62,U18,18,σ(x) = 1 / (1 + e^-x),equation
+lecture_62,U19,19,∂L/∂w = (ŷ - y)x,equation
+lecture_62,U20,20,Evaluation metrics table including precision recall and F1,table
+lecture_63,U1,1,Neural network architecture diagram,diagram
+lecture_63,U2,2,Flowchart of machine learning pipeline,diagram
+lecture_63,U3,3,∂L/∂w = (ŷ - y)x,equation
+lecture_63,U4,4,Hyperparameter tuning results table,table
+lecture_63,U5,5,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_63,U6,6,Dataset statistics table showing samples and features,table
+lecture_63,U7,7,Introduction to linear regression and supervised learning,text
+lecture_63,U8,8,Overview of neural networks and activation functions,text
+lecture_63,U9,9,Graphical illustration of gradient descent,diagram
+lecture_63,U10,10,Hyperparameter tuning results table,table
+lecture_63,U11,11,Comparison table of algorithm performance metrics,table
+lecture_63,U12,12,σ(x) = 1 / (1 + e^-x),equation
+lecture_63,U13,13,Evaluation metrics table including precision recall and F1,table
+lecture_63,U14,14,Graphical illustration of gradient descent,diagram
+lecture_63,U15,15,Neural network architecture diagram,diagram
+lecture_63,U16,16,Visualization of decision boundary,diagram
+lecture_63,U17,17,Explanation of gradient descent optimization,text
+lecture_63,U18,18,Neural network architecture diagram,diagram
+lecture_63,U19,19,Dataset statistics table showing samples and features,table
+lecture_63,U20,20,y = wx + b,equation
+lecture_64,U1,1,σ(x) = 1 / (1 + e^-x),equation
+lecture_64,U2,2,Explanation of feature scaling and normalization,text
+lecture_64,U3,3,Introduction to linear regression and supervised learning,text
+lecture_64,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_64,U5,5,Comparison table of algorithm performance metrics,table
+lecture_64,U6,6,Hyperparameter tuning results table,table
+lecture_64,U7,7,Discussion of overfitting and model generalization,text
+lecture_64,U8,8,Hyperparameter tuning results table,table
+lecture_64,U9,9,Introduction to linear regression and supervised learning,text
+lecture_64,U10,10,σ(x) = 1 / (1 + e^-x),equation
+lecture_64,U11,11,Hyperparameter tuning results table,table
+lecture_64,U12,12,Hyperparameter tuning results table,table
+lecture_64,U13,13,Visualization of decision boundary,diagram
+lecture_64,U14,14,Overview of neural networks and activation functions,text
+lecture_64,U15,15,Comparison table of algorithm performance metrics,table
+lecture_64,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_64,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_64,U18,18,Neural network architecture diagram,diagram
+lecture_64,U19,19,Hyperparameter tuning results table,table
+lecture_64,U20,20,Explanation of gradient descent optimization,text
+lecture_65,U1,1,σ(x) = 1 / (1 + e^-x),equation
+lecture_65,U2,2,σ(x) = 1 / (1 + e^-x),equation
+lecture_65,U3,3,Explanation of feature scaling and normalization,text
+lecture_65,U4,4,Hyperparameter tuning results table,table
+lecture_65,U5,5,Visualization of decision boundary,diagram
+lecture_65,U6,6,Training data table with input-output pairs,table
+lecture_65,U7,7,Explanation of gradient descent optimization,text
+lecture_65,U8,8,Visualization of decision boundary,diagram
+lecture_65,U9,9,Diagram showing regression line fitting data points,diagram
+lecture_65,U10,10,Dataset statistics table showing samples and features,table
+lecture_65,U11,11,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_65,U12,12,Comparison table of algorithm performance metrics,table
+lecture_65,U13,13,∂L/∂w = (ŷ - y)x,equation
+lecture_65,U14,14,Diagram showing regression line fitting data points,diagram
+lecture_65,U15,15,Comparison table of algorithm performance metrics,table
+lecture_65,U16,16,σ(x) = 1 / (1 + e^-x),equation
+lecture_65,U17,17,Visualization of decision boundary,diagram
+lecture_65,U18,18,Graphical illustration of gradient descent,diagram
+lecture_65,U19,19,y = wx + b,equation
+lecture_65,U20,20,Explanation of gradient descent optimization,text
+lecture_66,U1,1,Hyperparameter tuning results table,table
+lecture_66,U2,2,Explanation of feature scaling and normalization,text
+lecture_66,U3,3,Evaluation metrics table including precision recall and F1,table
+lecture_66,U4,4,Visualization of decision boundary,diagram
+lecture_66,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_66,U6,6,y = wx + b,equation
+lecture_66,U7,7,Training data table with input-output pairs,table
+lecture_66,U8,8,y = wx + b,equation
+lecture_66,U9,9,Hyperparameter tuning results table,table
+lecture_66,U10,10,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_66,U11,11,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_66,U12,12,Neural network architecture diagram,diagram
+lecture_66,U13,13,Discussion of overfitting and model generalization,text
+lecture_66,U14,14,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_66,U15,15,Flowchart of machine learning pipeline,diagram
+lecture_66,U16,16,Overview of neural networks and activation functions,text
+lecture_66,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_66,U18,18,Explanation of feature scaling and normalization,text
+lecture_66,U19,19,y = wx + b,equation
+lecture_66,U20,20,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_67,U1,1,y = wx + b,equation
+lecture_67,U2,2,Discussion of overfitting and model generalization,text
+lecture_67,U3,3,Diagram showing regression line fitting data points,diagram
+lecture_67,U4,4,Hyperparameter tuning results table,table
+lecture_67,U5,5,Diagram showing regression line fitting data points,diagram
+lecture_67,U6,6,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_67,U7,7,Comparison table of algorithm performance metrics,table
+lecture_67,U8,8,Hyperparameter tuning results table,table
+lecture_67,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_67,U10,10,Explanation of gradient descent optimization,text
+lecture_67,U11,11,Discussion of overfitting and model generalization,text
+lecture_67,U12,12,Discussion of overfitting and model generalization,text
+lecture_67,U13,13,Explanation of gradient descent optimization,text
+lecture_67,U14,14,Comparison table of algorithm performance metrics,table
+lecture_67,U15,15,∂L/∂w = (ŷ - y)x,equation
+lecture_67,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_67,U17,17,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_67,U18,18,Graphical illustration of gradient descent,diagram
+lecture_67,U19,19,Discussion of overfitting and model generalization,text
+lecture_67,U20,20,y = wx + b,equation
+lecture_68,U1,1,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_68,U2,2,Training data table with input-output pairs,table
+lecture_68,U3,3,Explanation of gradient descent optimization,text
+lecture_68,U4,4,Neural network architecture diagram,diagram
+lecture_68,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_68,U6,6,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_68,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_68,U8,8,Explanation of gradient descent optimization,text
+lecture_68,U9,9,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_68,U10,10,Discussion of overfitting and model generalization,text
+lecture_68,U11,11,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_68,U12,12,Training data table with input-output pairs,table
+lecture_68,U13,13,∂L/∂w = (ŷ - y)x,equation
+lecture_68,U14,14,Training data table with input-output pairs,table
+lecture_68,U15,15,Diagram showing regression line fitting data points,diagram
+lecture_68,U16,16,Evaluation metrics table including precision recall and F1,table
+lecture_68,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_68,U18,18,σ(x) = 1 / (1 + e^-x),equation
+lecture_68,U19,19,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_68,U20,20,Comparison table of algorithm performance metrics,table
+lecture_69,U1,1,Explanation of gradient descent optimization,text
+lecture_69,U2,2,Dataset statistics table showing samples and features,table
+lecture_69,U3,3,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_69,U4,4,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_69,U5,5,Introduction to linear regression and supervised learning,text
+lecture_69,U6,6,Introduction to linear regression and supervised learning,text
+lecture_69,U7,7,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_69,U8,8,Explanation of gradient descent optimization,text
+lecture_69,U9,9,Visualization of decision boundary,diagram
+lecture_69,U10,10,Visualization of decision boundary,diagram
+lecture_69,U11,11,Hyperparameter tuning results table,table
+lecture_69,U12,12,Comparison table of algorithm performance metrics,table
+lecture_69,U13,13,Dataset statistics table showing samples and features,table
+lecture_69,U14,14,Comparison table of algorithm performance metrics,table
+lecture_69,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_69,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_69,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_69,U18,18,y = wx + b,equation
+lecture_69,U19,19,Comparison table of algorithm performance metrics,table
+lecture_69,U20,20,Explanation of gradient descent optimization,text
+lecture_70,U1,1,Flowchart of machine learning pipeline,diagram
+lecture_70,U2,2,Graphical illustration of gradient descent,diagram
+lecture_70,U3,3,Hyperparameter tuning results table,table
+lecture_70,U4,4,Training data table with input-output pairs,table
+lecture_70,U5,5,Neural network architecture diagram,diagram
+lecture_70,U6,6,Dataset statistics table showing samples and features,table
+lecture_70,U7,7,σ(x) = 1 / (1 + e^-x),equation
+lecture_70,U8,8,Explanation of gradient descent optimization,text
+lecture_70,U9,9,Discussion of overfitting and model generalization,text
+lecture_70,U10,10,Flowchart of machine learning pipeline,diagram
+lecture_70,U11,11,Explanation of feature scaling and normalization,text
+lecture_70,U12,12,Discussion of overfitting and model generalization,text
+lecture_70,U13,13,Introduction to linear regression and supervised learning,text
+lecture_70,U14,14,Training data table with input-output pairs,table
+lecture_70,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_70,U16,16,Neural network architecture diagram,diagram
+lecture_70,U17,17,Visualization of decision boundary,diagram
+lecture_70,U18,18,Graphical illustration of gradient descent,diagram
+lecture_70,U19,19,Hyperparameter tuning results table,table
+lecture_70,U20,20,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_71,U1,1,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_71,U2,2,Discussion of overfitting and model generalization,text
+lecture_71,U3,3,Graphical illustration of gradient descent,diagram
+lecture_71,U4,4,Flowchart of machine learning pipeline,diagram
+lecture_71,U5,5,Comparison table of algorithm performance metrics,table
+lecture_71,U6,6,Introduction to linear regression and supervised learning,text
+lecture_71,U7,7,Flowchart of machine learning pipeline,diagram
+lecture_71,U8,8,Overview of neural networks and activation functions,text
+lecture_71,U9,9,y = wx + b,equation
+lecture_71,U10,10,σ(x) = 1 / (1 + e^-x),equation
+lecture_71,U11,11,Evaluation metrics table including precision recall and F1,table
+lecture_71,U12,12,Explanation of gradient descent optimization,text
+lecture_71,U13,13,Neural network architecture diagram,diagram
+lecture_71,U14,14,Hyperparameter tuning results table,table
+lecture_71,U15,15,Flowchart of machine learning pipeline,diagram
+lecture_71,U16,16,Discussion of overfitting and model generalization,text
+lecture_71,U17,17,Overview of neural networks and activation functions,text
+lecture_71,U18,18,Training data table with input-output pairs,table
+lecture_71,U19,19,Neural network architecture diagram,diagram
+lecture_71,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_72,U1,1,Dataset statistics table showing samples and features,table
+lecture_72,U2,2,Hyperparameter tuning results table,table
+lecture_72,U3,3,Evaluation metrics table including precision recall and F1,table
+lecture_72,U4,4,Flowchart of machine learning pipeline,diagram
+lecture_72,U5,5,Training data table with input-output pairs,table
+lecture_72,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_72,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_72,U8,8,Visualization of decision boundary,diagram
+lecture_72,U9,9,Graphical illustration of gradient descent,diagram
+lecture_72,U10,10,Graphical illustration of gradient descent,diagram
+lecture_72,U11,11,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_72,U12,12,Comparison table of algorithm performance metrics,table
+lecture_72,U13,13,Overview of neural networks and activation functions,text
+lecture_72,U14,14,Flowchart of machine learning pipeline,diagram
+lecture_72,U15,15,Evaluation metrics table including precision recall and F1,table
+lecture_72,U16,16,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_72,U17,17,Training data table with input-output pairs,table
+lecture_72,U18,18,Flowchart of machine learning pipeline,diagram
+lecture_72,U19,19,y = wx + b,equation
+lecture_72,U20,20,y = wx + b,equation
+lecture_73,U1,1,Overview of neural networks and activation functions,text
+lecture_73,U2,2,Explanation of feature scaling and normalization,text
+lecture_73,U3,3,y = wx + b,equation
+lecture_73,U4,4,Dataset statistics table showing samples and features,table
+lecture_73,U5,5,Training data table with input-output pairs,table
+lecture_73,U6,6,Flowchart of machine learning pipeline,diagram
+lecture_73,U7,7,σ(x) = 1 / (1 + e^-x),equation
+lecture_73,U8,8,Discussion of overfitting and model generalization,text
+lecture_73,U9,9,Overview of neural networks and activation functions,text
+lecture_73,U10,10,Discussion of overfitting and model generalization,text
+lecture_73,U11,11,Discussion of overfitting and model generalization,text
+lecture_73,U12,12,y = wx + b,equation
+lecture_73,U13,13,Comparison table of algorithm performance metrics,table
+lecture_73,U14,14,Introduction to linear regression and supervised learning,text
+lecture_73,U15,15,Training data table with input-output pairs,table
+lecture_73,U16,16,Graphical illustration of gradient descent,diagram
+lecture_73,U17,17,Hyperparameter tuning results table,table
+lecture_73,U18,18,Comparison table of algorithm performance metrics,table
+lecture_73,U19,19,Neural network architecture diagram,diagram
+lecture_73,U20,20,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_74,U1,1,Discussion of overfitting and model generalization,text
+lecture_74,U2,2,Diagram showing regression line fitting data points,diagram
+lecture_74,U3,3,∂L/∂w = (ŷ - y)x,equation
+lecture_74,U4,4,Diagram showing regression line fitting data points,diagram
+lecture_74,U5,5,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_74,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_74,U7,7,Training data table with input-output pairs,table
+lecture_74,U8,8,Discussion of overfitting and model generalization,text
+lecture_74,U9,9,y = wx + b,equation
+lecture_74,U10,10,Explanation of gradient descent optimization,text
+lecture_74,U11,11,Explanation of gradient descent optimization,text
+lecture_74,U12,12,Hyperparameter tuning results table,table
+lecture_74,U13,13,Comparison table of algorithm performance metrics,table
+lecture_74,U14,14,Flowchart of machine learning pipeline,diagram
+lecture_74,U15,15,Dataset statistics table showing samples and features,table
+lecture_74,U16,16,Graphical illustration of gradient descent,diagram
+lecture_74,U17,17,y = wx + b,equation
+lecture_74,U18,18,Neural network architecture diagram,diagram
+lecture_74,U19,19,Explanation of gradient descent optimization,text
+lecture_74,U20,20,Overview of neural networks and activation functions,text
+lecture_75,U1,1,Explanation of gradient descent optimization,text
+lecture_75,U2,2,Dataset statistics table showing samples and features,table
+lecture_75,U3,3,Training data table with input-output pairs,table
+lecture_75,U4,4,Diagram showing regression line fitting data points,diagram
+lecture_75,U5,5,y = wx + b,equation
+lecture_75,U6,6,Discussion of overfitting and model generalization,text
+lecture_75,U7,7,Explanation of feature scaling and normalization,text
+lecture_75,U8,8,Introduction to linear regression and supervised learning,text
+lecture_75,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_75,U10,10,Explanation of gradient descent optimization,text
+lecture_75,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_75,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_75,U13,13,Explanation of feature scaling and normalization,text
+lecture_75,U14,14,Neural network architecture diagram,diagram
+lecture_75,U15,15,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_75,U16,16,Introduction to linear regression and supervised learning,text
+lecture_75,U17,17,Diagram showing regression line fitting data points,diagram
+lecture_75,U18,18,Explanation of feature scaling and normalization,text
+lecture_75,U19,19,Explanation of gradient descent optimization,text
+lecture_75,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_76,U1,1,Introduction to linear regression and supervised learning,text
+lecture_76,U2,2,Overview of neural networks and activation functions,text
+lecture_76,U3,3,Visualization of decision boundary,diagram
+lecture_76,U4,4,∂L/∂w = (ŷ - y)x,equation
+lecture_76,U5,5,Overview of neural networks and activation functions,text
+lecture_76,U6,6,Graphical illustration of gradient descent,diagram
+lecture_76,U7,7,Overview of neural networks and activation functions,text
+lecture_76,U8,8,Hyperparameter tuning results table,table
+lecture_76,U9,9,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_76,U10,10,Discussion of overfitting and model generalization,text
+lecture_76,U11,11,Overview of neural networks and activation functions,text
+lecture_76,U12,12,σ(x) = 1 / (1 + e^-x),equation
+lecture_76,U13,13,Overview of neural networks and activation functions,text
+lecture_76,U14,14,Graphical illustration of gradient descent,diagram
+lecture_76,U15,15,Dataset statistics table showing samples and features,table
+lecture_76,U16,16,Neural network architecture diagram,diagram
+lecture_76,U17,17,Overview of neural networks and activation functions,text
+lecture_76,U18,18,Evaluation metrics table including precision recall and F1,table
+lecture_76,U19,19,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_76,U20,20,Discussion of overfitting and model generalization,text
+lecture_77,U1,1,Visualization of decision boundary,diagram
+lecture_77,U2,2,Training data table with input-output pairs,table
+lecture_77,U3,3,Introduction to linear regression and supervised learning,text
+lecture_77,U4,4,Introduction to linear regression and supervised learning,text
+lecture_77,U5,5,∂L/∂w = (ŷ - y)x,equation
+lecture_77,U6,6,Explanation of gradient descent optimization,text
+lecture_77,U7,7,Flowchart of machine learning pipeline,diagram
+lecture_77,U8,8,Visualization of decision boundary,diagram
+lecture_77,U9,9,Overview of neural networks and activation functions,text
+lecture_77,U10,10,Explanation of feature scaling and normalization,text
+lecture_77,U11,11,Overview of neural networks and activation functions,text
+lecture_77,U12,12,Diagram showing regression line fitting data points,diagram
+lecture_77,U13,13,Introduction to linear regression and supervised learning,text
+lecture_77,U14,14,Flowchart of machine learning pipeline,diagram
+lecture_77,U15,15,Discussion of overfitting and model generalization,text
+lecture_77,U16,16,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_77,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_77,U18,18,y = wx + b,equation
+lecture_77,U19,19,Explanation of feature scaling and normalization,text
+lecture_77,U20,20,σ(x) = 1 / (1 + e^-x),equation
+lecture_78,U1,1,Hyperparameter tuning results table,table
+lecture_78,U2,2,Neural network architecture diagram,diagram
+lecture_78,U3,3,Diagram showing regression line fitting data points,diagram
+lecture_78,U4,4,Explanation of feature scaling and normalization,text
+lecture_78,U5,5,σ(x) = 1 / (1 + e^-x),equation
+lecture_78,U6,6,Hyperparameter tuning results table,table
+lecture_78,U7,7,Explanation of feature scaling and normalization,text
+lecture_78,U8,8,Hyperparameter tuning results table,table
+lecture_78,U9,9,Explanation of feature scaling and normalization,text
+lecture_78,U10,10,Diagram showing regression line fitting data points,diagram
+lecture_78,U11,11,Graphical illustration of gradient descent,diagram
+lecture_78,U12,12,Overview of neural networks and activation functions,text
+lecture_78,U13,13,y = wx + b,equation
+lecture_78,U14,14,Explanation of gradient descent optimization,text
+lecture_78,U15,15,σ(x) = 1 / (1 + e^-x),equation
+lecture_78,U16,16,Neural network architecture diagram,diagram
+lecture_78,U17,17,Explanation of feature scaling and normalization,text
+lecture_78,U18,18,Discussion of overfitting and model generalization,text
+lecture_78,U19,19,Dataset statistics table showing samples and features,table
+lecture_78,U20,20,Introduction to linear regression and supervised learning,text
+lecture_79,U1,1,Neural network architecture diagram,diagram
+lecture_79,U2,2,σ(x) = 1 / (1 + e^-x),equation
+lecture_79,U3,3,Evaluation metrics table including precision recall and F1,table
+lecture_79,U4,4,Discussion of overfitting and model generalization,text
+lecture_79,U5,5,∂L/∂w = (ŷ - y)x,equation
+lecture_79,U6,6,Visualization of decision boundary,diagram
+lecture_79,U7,7,Overview of neural networks and activation functions,text
+lecture_79,U8,8,y = wx + b,equation
+lecture_79,U9,9,Comparison table of algorithm performance metrics,table
+lecture_79,U10,10,Flowchart of machine learning pipeline,diagram
+lecture_79,U11,11,Visualization of decision boundary,diagram
+lecture_79,U12,12,Training data table with input-output pairs,table
+lecture_79,U13,13,Overview of neural networks and activation functions,text
+lecture_79,U14,14,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_79,U15,15,Discussion of overfitting and model generalization,text
+lecture_79,U16,16,Neural network architecture diagram,diagram
+lecture_79,U17,17,Flowchart of machine learning pipeline,diagram
+lecture_79,U18,18,Training data table with input-output pairs,table
+lecture_79,U19,19,Neural network architecture diagram,diagram
+lecture_79,U20,20,Overview of neural networks and activation functions,text
+lecture_80,U1,1,Comparison table of algorithm performance metrics,table
+lecture_80,U2,2,Graphical illustration of gradient descent,diagram
+lecture_80,U3,3,Explanation of feature scaling and normalization,text
+lecture_80,U4,4,σ(x) = 1 / (1 + e^-x),equation
+lecture_80,U5,5,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_80,U6,6,Flowchart of machine learning pipeline,diagram
+lecture_80,U7,7,Explanation of gradient descent optimization,text
+lecture_80,U8,8,Explanation of feature scaling and normalization,text
+lecture_80,U9,9,Introduction to linear regression and supervised learning,text
+lecture_80,U10,10,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_80,U11,11,Hyperparameter tuning results table,table
+lecture_80,U12,12,Diagram showing regression line fitting data points,diagram
+lecture_80,U13,13,Explanation of gradient descent optimization,text
+lecture_80,U14,14,Explanation of gradient descent optimization,text
+lecture_80,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_80,U16,16,Overview of neural networks and activation functions,text
+lecture_80,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_80,U18,18,Training data table with input-output pairs,table
+lecture_80,U19,19,σ(x) = 1 / (1 + e^-x),equation
+lecture_80,U20,20,Neural network architecture diagram,diagram
+lecture_81,U1,1,Introduction to linear regression and supervised learning,text
+lecture_81,U2,2,Diagram showing regression line fitting data points,diagram
+lecture_81,U3,3,Explanation of feature scaling and normalization,text
+lecture_81,U4,4,Comparison table of algorithm performance metrics,table
+lecture_81,U5,5,Introduction to linear regression and supervised learning,text
+lecture_81,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_81,U7,7,Introduction to linear regression and supervised learning,text
+lecture_81,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_81,U9,9,Introduction to linear regression and supervised learning,text
+lecture_81,U10,10,Introduction to linear regression and supervised learning,text
+lecture_81,U11,11,σ(x) = 1 / (1 + e^-x),equation
+lecture_81,U12,12,Dataset statistics table showing samples and features,table
+lecture_81,U13,13,Explanation of feature scaling and normalization,text
+lecture_81,U14,14,Overview of neural networks and activation functions,text
+lecture_81,U15,15,σ(x) = 1 / (1 + e^-x),equation
+lecture_81,U16,16,σ(x) = 1 / (1 + e^-x),equation
+lecture_81,U17,17,Dataset statistics table showing samples and features,table
+lecture_81,U18,18,Hyperparameter tuning results table,table
+lecture_81,U19,19,Graphical illustration of gradient descent,diagram
+lecture_81,U20,20,Explanation of gradient descent optimization,text
+lecture_82,U1,1,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_82,U2,2,σ(x) = 1 / (1 + e^-x),equation
+lecture_82,U3,3,Overview of neural networks and activation functions,text
+lecture_82,U4,4,Graphical illustration of gradient descent,diagram
+lecture_82,U5,5,Visualization of decision boundary,diagram
+lecture_82,U6,6,Comparison table of algorithm performance metrics,table
+lecture_82,U7,7,σ(x) = 1 / (1 + e^-x),equation
+lecture_82,U8,8,Discussion of overfitting and model generalization,text
+lecture_82,U9,9,Training data table with input-output pairs,table
+lecture_82,U10,10,Explanation of gradient descent optimization,text
+lecture_82,U11,11,Explanation of feature scaling and normalization,text
+lecture_82,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_82,U13,13,Discussion of overfitting and model generalization,text
+lecture_82,U14,14,Explanation of feature scaling and normalization,text
+lecture_82,U15,15,Discussion of overfitting and model generalization,text
+lecture_82,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_82,U17,17,Graphical illustration of gradient descent,diagram
+lecture_82,U18,18,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_82,U19,19,Flowchart of machine learning pipeline,diagram
+lecture_82,U20,20,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_83,U1,1,Introduction to linear regression and supervised learning,text
+lecture_83,U2,2,Discussion of overfitting and model generalization,text
+lecture_83,U3,3,Visualization of decision boundary,diagram
+lecture_83,U4,4,Graphical illustration of gradient descent,diagram
+lecture_83,U5,5,Evaluation metrics table including precision recall and F1,table
+lecture_83,U6,6,Overview of neural networks and activation functions,text
+lecture_83,U7,7,Diagram showing regression line fitting data points,diagram
+lecture_83,U8,8,Hyperparameter tuning results table,table
+lecture_83,U9,9,Explanation of feature scaling and normalization,text
+lecture_83,U10,10,Explanation of feature scaling and normalization,text
+lecture_83,U11,11,Overview of neural networks and activation functions,text
+lecture_83,U12,12,Flowchart of machine learning pipeline,diagram
+lecture_83,U13,13,Neural network architecture diagram,diagram
+lecture_83,U14,14,Evaluation metrics table including precision recall and F1,table
+lecture_83,U15,15,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_83,U16,16,Explanation of gradient descent optimization,text
+lecture_83,U17,17,Evaluation metrics table including precision recall and F1,table
+lecture_83,U18,18,Explanation of gradient descent optimization,text
+lecture_83,U19,19,Hyperparameter tuning results table,table
+lecture_83,U20,20,Overview of neural networks and activation functions,text
+lecture_84,U1,1,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_84,U2,2,Introduction to linear regression and supervised learning,text
+lecture_84,U3,3,∂L/∂w = (ŷ - y)x,equation
+lecture_84,U4,4,Introduction to linear regression and supervised learning,text
+lecture_84,U5,5,Explanation of gradient descent optimization,text
+lecture_84,U6,6,Explanation of feature scaling and normalization,text
+lecture_84,U7,7,Flowchart of machine learning pipeline,diagram
+lecture_84,U8,8,Introduction to linear regression and supervised learning,text
+lecture_84,U9,9,Discussion of overfitting and model generalization,text
+lecture_84,U10,10,Explanation of feature scaling and normalization,text
+lecture_84,U11,11,Explanation of feature scaling and normalization,text
+lecture_84,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_84,U13,13,Explanation of feature scaling and normalization,text
+lecture_84,U14,14,∂L/∂w = (ŷ - y)x,equation
+lecture_84,U15,15,Dataset statistics table showing samples and features,table
+lecture_84,U16,16,Graphical illustration of gradient descent,diagram
+lecture_84,U17,17,Comparison table of algorithm performance metrics,table
+lecture_84,U18,18,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_84,U19,19,Evaluation metrics table including precision recall and F1,table
+lecture_84,U20,20,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_85,U1,1,Diagram showing regression line fitting data points,diagram
+lecture_85,U2,2,y = wx + b,equation
+lecture_85,U3,3,σ(x) = 1 / (1 + e^-x),equation
+lecture_85,U4,4,Graphical illustration of gradient descent,diagram
+lecture_85,U5,5,Comparison table of algorithm performance metrics,table
+lecture_85,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_85,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_85,U8,8,Overview of neural networks and activation functions,text
+lecture_85,U9,9,Neural network architecture diagram,diagram
+lecture_85,U10,10,Diagram showing regression line fitting data points,diagram
+lecture_85,U11,11,Diagram showing regression line fitting data points,diagram
+lecture_85,U12,12,σ(x) = 1 / (1 + e^-x),equation
+lecture_85,U13,13,Visualization of decision boundary,diagram
+lecture_85,U14,14,y = wx + b,equation
+lecture_85,U15,15,∂L/∂w = (ŷ - y)x,equation
+lecture_85,U16,16,σ(x) = 1 / (1 + e^-x),equation
+lecture_85,U17,17,Explanation of gradient descent optimization,text
+lecture_85,U18,18,Discussion of overfitting and model generalization,text
+lecture_85,U19,19,Dataset statistics table showing samples and features,table
+lecture_85,U20,20,Training data table with input-output pairs,table
+lecture_86,U1,1,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_86,U2,2,Neural network architecture diagram,diagram
+lecture_86,U3,3,Hyperparameter tuning results table,table
+lecture_86,U4,4,Neural network architecture diagram,diagram
+lecture_86,U5,5,∂L/∂w = (ŷ - y)x,equation
+lecture_86,U6,6,Graphical illustration of gradient descent,diagram
+lecture_86,U7,7,Overview of neural networks and activation functions,text
+lecture_86,U8,8,Overview of neural networks and activation functions,text
+lecture_86,U9,9,Diagram showing regression line fitting data points,diagram
+lecture_86,U10,10,σ(x) = 1 / (1 + e^-x),equation
+lecture_86,U11,11,∂L/∂w = (ŷ - y)x,equation
+lecture_86,U12,12,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_86,U13,13,Explanation of gradient descent optimization,text
+lecture_86,U14,14,Diagram showing regression line fitting data points,diagram
+lecture_86,U15,15,σ(x) = 1 / (1 + e^-x),equation
+lecture_86,U16,16,Discussion of overfitting and model generalization,text
+lecture_86,U17,17,Evaluation metrics table including precision recall and F1,table
+lecture_86,U18,18,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_86,U19,19,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_86,U20,20,Comparison table of algorithm performance metrics,table
+lecture_87,U1,1,Neural network architecture diagram,diagram
+lecture_87,U2,2,Hyperparameter tuning results table,table
+lecture_87,U3,3,Flowchart of machine learning pipeline,diagram
+lecture_87,U4,4,Flowchart of machine learning pipeline,diagram
+lecture_87,U5,5,Training data table with input-output pairs,table
+lecture_87,U6,6,Overview of neural networks and activation functions,text
+lecture_87,U7,7,Flowchart of machine learning pipeline,diagram
+lecture_87,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_87,U9,9,Visualization of decision boundary,diagram
+lecture_87,U10,10,∂L/∂w = (ŷ - y)x,equation
+lecture_87,U11,11,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_87,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_87,U13,13,σ(x) = 1 / (1 + e^-x),equation
+lecture_87,U14,14,Neural network architecture diagram,diagram
+lecture_87,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_87,U16,16,Dataset statistics table showing samples and features,table
+lecture_87,U17,17,y = wx + b,equation
+lecture_87,U18,18,Training data table with input-output pairs,table
+lecture_87,U19,19,∂L/∂w = (ŷ - y)x,equation
+lecture_87,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_88,U1,1,Discussion of overfitting and model generalization,text
+lecture_88,U2,2,Graphical illustration of gradient descent,diagram
+lecture_88,U3,3,Hyperparameter tuning results table,table
+lecture_88,U4,4,σ(x) = 1 / (1 + e^-x),equation
+lecture_88,U5,5,Explanation of gradient descent optimization,text
+lecture_88,U6,6,Comparison table of algorithm performance metrics,table
+lecture_88,U7,7,Discussion of overfitting and model generalization,text
+lecture_88,U8,8,Discussion of overfitting and model generalization,text
+lecture_88,U9,9,y = wx + b,equation
+lecture_88,U10,10,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_88,U11,11,σ(x) = 1 / (1 + e^-x),equation
+lecture_88,U12,12,∂L/∂w = (ŷ - y)x,equation
+lecture_88,U13,13,Comparison table of algorithm performance metrics,table
+lecture_88,U14,14,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_88,U15,15,Training data table with input-output pairs,table
+lecture_88,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_88,U17,17,Visualization of decision boundary,diagram
+lecture_88,U18,18,Visualization of decision boundary,diagram
+lecture_88,U19,19,Hyperparameter tuning results table,table
+lecture_88,U20,20,Discussion of overfitting and model generalization,text
+lecture_89,U1,1,Diagram showing regression line fitting data points,diagram
+lecture_89,U2,2,Introduction to linear regression and supervised learning,text
+lecture_89,U3,3,σ(x) = 1 / (1 + e^-x),equation
+lecture_89,U4,4,Evaluation metrics table including precision recall and F1,table
+lecture_89,U5,5,Dataset statistics table showing samples and features,table
+lecture_89,U6,6,∂L/∂w = (ŷ - y)x,equation
+lecture_89,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_89,U8,8,Neural network architecture diagram,diagram
+lecture_89,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_89,U10,10,Introduction to linear regression and supervised learning,text
+lecture_89,U11,11,Evaluation metrics table including precision recall and F1,table
+lecture_89,U12,12,Graphical illustration of gradient descent,diagram
+lecture_89,U13,13,Discussion of overfitting and model generalization,text
+lecture_89,U14,14,Explanation of feature scaling and normalization,text
+lecture_89,U15,15,∂L/∂w = (ŷ - y)x,equation
+lecture_89,U16,16,Discussion of overfitting and model generalization,text
+lecture_89,U17,17,y = wx + b,equation
+lecture_89,U18,18,Visualization of decision boundary,diagram
+lecture_89,U19,19,Introduction to linear regression and supervised learning,text
+lecture_89,U20,20,Graphical illustration of gradient descent,diagram
+lecture_90,U1,1,Neural network architecture diagram,diagram
+lecture_90,U2,2,Diagram showing regression line fitting data points,diagram
+lecture_90,U3,3,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_90,U4,4,Flowchart of machine learning pipeline,diagram
+lecture_90,U5,5,Introduction to linear regression and supervised learning,text
+lecture_90,U6,6,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_90,U7,7,Visualization of decision boundary,diagram
+lecture_90,U8,8,Comparison table of algorithm performance metrics,table
+lecture_90,U9,9,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_90,U10,10,Explanation of feature scaling and normalization,text
+lecture_90,U11,11,Explanation of gradient descent optimization,text
+lecture_90,U12,12,Explanation of feature scaling and normalization,text
+lecture_90,U13,13,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_90,U14,14,σ(x) = 1 / (1 + e^-x),equation
+lecture_90,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_90,U16,16,Graphical illustration of gradient descent,diagram
+lecture_90,U17,17,Evaluation metrics table including precision recall and F1,table
+lecture_90,U18,18,Comparison table of algorithm performance metrics,table
+lecture_90,U19,19,Explanation of gradient descent optimization,text
+lecture_90,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_91,U1,1,Visualization of decision boundary,diagram
+lecture_91,U2,2,Discussion of overfitting and model generalization,text
+lecture_91,U3,3,Discussion of overfitting and model generalization,text
+lecture_91,U4,4,Discussion of overfitting and model generalization,text
+lecture_91,U5,5,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_91,U6,6,Flowchart of machine learning pipeline,diagram
+lecture_91,U7,7,Visualization of decision boundary,diagram
+lecture_91,U8,8,Dataset statistics table showing samples and features,table
+lecture_91,U9,9,Diagram showing regression line fitting data points,diagram
+lecture_91,U10,10,Diagram showing regression line fitting data points,diagram
+lecture_91,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_91,U12,12,Evaluation metrics table including precision recall and F1,table
+lecture_91,U13,13,Dataset statistics table showing samples and features,table
+lecture_91,U14,14,Dataset statistics table showing samples and features,table
+lecture_91,U15,15,Neural network architecture diagram,diagram
+lecture_91,U16,16,Flowchart of machine learning pipeline,diagram
+lecture_91,U17,17,Diagram showing regression line fitting data points,diagram
+lecture_91,U18,18,Hyperparameter tuning results table,table
+lecture_91,U19,19,Visualization of decision boundary,diagram
+lecture_91,U20,20,Explanation of feature scaling and normalization,text
+lecture_92,U1,1,σ(x) = 1 / (1 + e^-x),equation
+lecture_92,U2,2,Dataset statistics table showing samples and features,table
+lecture_92,U3,3,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_92,U4,4,Hyperparameter tuning results table,table
+lecture_92,U5,5,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_92,U6,6,Comparison table of algorithm performance metrics,table
+lecture_92,U7,7,Visualization of decision boundary,diagram
+lecture_92,U8,8,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_92,U9,9,σ(x) = 1 / (1 + e^-x),equation
+lecture_92,U10,10,Explanation of gradient descent optimization,text
+lecture_92,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_92,U12,12,Introduction to linear regression and supervised learning,text
+lecture_92,U13,13,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_92,U14,14,∂L/∂w = (ŷ - y)x,equation
+lecture_92,U15,15,Graphical illustration of gradient descent,diagram
+lecture_92,U16,16,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_92,U17,17,Dataset statistics table showing samples and features,table
+lecture_92,U18,18,Overview of neural networks and activation functions,text
+lecture_92,U19,19,Overview of neural networks and activation functions,text
+lecture_92,U20,20,Introduction to linear regression and supervised learning,text
+lecture_93,U1,1,y = wx + b,equation
+lecture_93,U2,2,y = wx + b,equation
+lecture_93,U3,3,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_93,U4,4,σ(x) = 1 / (1 + e^-x),equation
+lecture_93,U5,5,Neural network architecture diagram,diagram
+lecture_93,U6,6,Introduction to linear regression and supervised learning,text
+lecture_93,U7,7,Explanation of gradient descent optimization,text
+lecture_93,U8,8,Visualization of decision boundary,diagram
+lecture_93,U9,9,Comparison table of algorithm performance metrics,table
+lecture_93,U10,10,Diagram showing regression line fitting data points,diagram
+lecture_93,U11,11,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_93,U12,12,Discussion of overfitting and model generalization,text
+lecture_93,U13,13,Introduction to linear regression and supervised learning,text
+lecture_93,U14,14,Introduction to linear regression and supervised learning,text
+lecture_93,U15,15,Discussion of overfitting and model generalization,text
+lecture_93,U16,16,y = wx + b,equation
+lecture_93,U17,17,Evaluation metrics table including precision recall and F1,table
+lecture_93,U18,18,Explanation of feature scaling and normalization,text
+lecture_93,U19,19,Graphical illustration of gradient descent,diagram
+lecture_93,U20,20,Flowchart of machine learning pipeline,diagram
+lecture_94,U1,1,Introduction to linear regression and supervised learning,text
+lecture_94,U2,2,∂L/∂w = (ŷ - y)x,equation
+lecture_94,U3,3,∂L/∂w = (ŷ - y)x,equation
+lecture_94,U4,4,σ(x) = 1 / (1 + e^-x),equation
+lecture_94,U5,5,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_94,U6,6,Training data table with input-output pairs,table
+lecture_94,U7,7,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_94,U8,8,σ(x) = 1 / (1 + e^-x),equation
+lecture_94,U9,9,Explanation of gradient descent optimization,text
+lecture_94,U10,10,Flowchart of machine learning pipeline,diagram
+lecture_94,U11,11,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_94,U12,12,Explanation of gradient descent optimization,text
+lecture_94,U13,13,y = wx + b,equation
+lecture_94,U14,14,Overview of neural networks and activation functions,text
+lecture_94,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_94,U16,16,Neural network architecture diagram,diagram
+lecture_94,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_94,U18,18,y = wx + b,equation
+lecture_94,U19,19,Visualization of decision boundary,diagram
+lecture_94,U20,20,Visualization of decision boundary,diagram
+lecture_95,U1,1,Hyperparameter tuning results table,table
+lecture_95,U2,2,Hyperparameter tuning results table,table
+lecture_95,U3,3,Diagram showing regression line fitting data points,diagram
+lecture_95,U4,4,Discussion of overfitting and model generalization,text
+lecture_95,U5,5,Explanation of gradient descent optimization,text
+lecture_95,U6,6,Flowchart of machine learning pipeline,diagram
+lecture_95,U7,7,Training data table with input-output pairs,table
+lecture_95,U8,8,Evaluation metrics table including precision recall and F1,table
+lecture_95,U9,9,Evaluation metrics table including precision recall and F1,table
+lecture_95,U10,10,Introduction to linear regression and supervised learning,text
+lecture_95,U11,11,Graphical illustration of gradient descent,diagram
+lecture_95,U12,12,Graphical illustration of gradient descent,diagram
+lecture_95,U13,13,Hyperparameter tuning results table,table
+lecture_95,U14,14,Hyperparameter tuning results table,table
+lecture_95,U15,15,Training data table with input-output pairs,table
+lecture_95,U16,16,Dataset statistics table showing samples and features,table
+lecture_95,U17,17,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_95,U18,18,y = wx + b,equation
+lecture_95,U19,19,∂L/∂w = (ŷ - y)x,equation
+lecture_95,U20,20,Neural network architecture diagram,diagram
+lecture_96,U1,1,Graphical illustration of gradient descent,diagram
+lecture_96,U2,2,Diagram showing regression line fitting data points,diagram
+lecture_96,U3,3,Diagram showing regression line fitting data points,diagram
+lecture_96,U4,4,Training data table with input-output pairs,table
+lecture_96,U5,5,Overview of neural networks and activation functions,text
+lecture_96,U6,6,Hyperparameter tuning results table,table
+lecture_96,U7,7,Comparison table of algorithm performance metrics,table
+lecture_96,U8,8,∂L/∂w = (ŷ - y)x,equation
+lecture_96,U9,9,y = wx + b,equation
+lecture_96,U10,10,Graphical illustration of gradient descent,diagram
+lecture_96,U11,11,Comparison table of algorithm performance metrics,table
+lecture_96,U12,12,Graphical illustration of gradient descent,diagram
+lecture_96,U13,13,Training data table with input-output pairs,table
+lecture_96,U14,14,∂L/∂w = (ŷ - y)x,equation
+lecture_96,U15,15,Discussion of overfitting and model generalization,text
+lecture_96,U16,16,Explanation of gradient descent optimization,text
+lecture_96,U17,17,Flowchart of machine learning pipeline,diagram
+lecture_96,U18,18,∂L/∂w = (ŷ - y)x,equation
+lecture_96,U19,19,Flowchart of machine learning pipeline,diagram
+lecture_96,U20,20,Hyperparameter tuning results table,table
+lecture_97,U1,1,Flowchart of machine learning pipeline,diagram
+lecture_97,U2,2,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_97,U3,3,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_97,U4,4,Flowchart of machine learning pipeline,diagram
+lecture_97,U5,5,Training data table with input-output pairs,table
+lecture_97,U6,6,y = wx + b,equation
+lecture_97,U7,7,Visualization of decision boundary,diagram
+lecture_97,U8,8,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_97,U9,9,Introduction to linear regression and supervised learning,text
+lecture_97,U10,10,Hyperparameter tuning results table,table
+lecture_97,U11,11,Diagram showing regression line fitting data points,diagram
+lecture_97,U12,12,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_97,U13,13,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_97,U14,14,Introduction to linear regression and supervised learning,text
+lecture_97,U15,15,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_97,U16,16,Explanation of gradient descent optimization,text
+lecture_97,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_97,U18,18,Explanation of feature scaling and normalization,text
+lecture_97,U19,19,Training data table with input-output pairs,table
+lecture_97,U20,20,Comparison table of algorithm performance metrics,table
+lecture_98,U1,1,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_98,U2,2,Introduction to linear regression and supervised learning,text
+lecture_98,U3,3,∂L/∂w = (ŷ - y)x,equation
+lecture_98,U4,4,Dataset statistics table showing samples and features,table
+lecture_98,U5,5,Graphical illustration of gradient descent,diagram
+lecture_98,U6,6,Evaluation metrics table including precision recall and F1,table
+lecture_98,U7,7,Evaluation metrics table including precision recall and F1,table
+lecture_98,U8,8,∂L/∂w = (ŷ - y)x,equation
+lecture_98,U9,9,Flowchart of machine learning pipeline,diagram
+lecture_98,U10,10,Discussion of overfitting and model generalization,text
+lecture_98,U11,11,Hyperparameter tuning results table,table
+lecture_98,U12,12,Flowchart of machine learning pipeline,diagram
+lecture_98,U13,13,Explanation of gradient descent optimization,text
+lecture_98,U14,14,y = wx + b,equation
+lecture_98,U15,15,Overview of neural networks and activation functions,text
+lecture_98,U16,16,y = wx + b,equation
+lecture_98,U17,17,Training data table with input-output pairs,table
+lecture_98,U18,18,Hyperparameter tuning results table,table
+lecture_98,U19,19,∂L/∂w = (ŷ - y)x,equation
+lecture_98,U20,20,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_99,U1,1,∂L/∂w = (ŷ - y)x,equation
+lecture_99,U2,2,Explanation of feature scaling and normalization,text
+lecture_99,U3,3,Neural network architecture diagram,diagram
+lecture_99,U4,4,Dataset statistics table showing samples and features,table
+lecture_99,U5,5,Diagram showing regression line fitting data points,diagram
+lecture_99,U6,6,softmax(z_i) = e^{z_i} / Σ e^{z_j},equation
+lecture_99,U7,7,Training data table with input-output pairs,table
+lecture_99,U8,8,Hyperparameter tuning results table,table
+lecture_99,U9,9,Introduction to linear regression and supervised learning,text
+lecture_99,U10,10,Introduction to linear regression and supervised learning,text
+lecture_99,U11,11,Graphical illustration of gradient descent,diagram
+lecture_99,U12,12,L = (1/n) Σ (y - ŷ)^2,equation
+lecture_99,U13,13,Flowchart of machine learning pipeline,diagram
+lecture_99,U14,14,Introduction to linear regression and supervised learning,text
+lecture_99,U15,15,σ(x) = 1 / (1 + e^-x),equation
+lecture_99,U16,16,Diagram showing regression line fitting data points,diagram
+lecture_99,U17,17,Explanation of gradient descent optimization,text
+lecture_99,U18,18,∂L/∂w = (ŷ - y)x,equation
+lecture_99,U19,19,Introduction to linear regression and supervised learning,text
+lecture_99,U20,20,Discussion of overfitting and model generalization,text
+lecture_100,U1,1,Dataset statistics table showing samples and features,table
+lecture_100,U2,2,Graphical illustration of gradient descent,diagram
+lecture_100,U3,3,Hyperparameter tuning results table,table
+lecture_100,U4,4,Diagram showing regression line fitting data points,diagram
+lecture_100,U5,5,Graphical illustration of gradient descent,diagram
+lecture_100,U6,6,Explanation of gradient descent optimization,text
+lecture_100,U7,7,Neural network architecture diagram,diagram
+lecture_100,U8,8,Training data table with input-output pairs,table
+lecture_100,U9,9,Explanation of feature scaling and normalization,text
+lecture_100,U10,10,Dataset statistics table showing samples and features,table
+lecture_100,U11,11,Dataset statistics table showing samples and features,table
+lecture_100,U12,12,Neural network architecture diagram,diagram
+lecture_100,U13,13,Diagram showing regression line fitting data points,diagram
+lecture_100,U14,14,Introduction to linear regression and supervised learning,text
+lecture_100,U15,15,Diagram showing regression line fitting data points,diagram
+lecture_100,U16,16,Explanation of gradient descent optimization,text
+lecture_100,U17,17,∂L/∂w = (ŷ - y)x,equation
+lecture_100,U18,18,Training data table with input-output pairs,table
+lecture_100,U19,19,Discussion of overfitting and model generalization,text
+lecture_100,U20,20,Training data table with input-output pairs,table
