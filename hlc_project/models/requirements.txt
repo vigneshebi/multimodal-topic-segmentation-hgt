@@ -1,0 +1,16 @@
+# requirements.txt
+# Core
+numpy>=1.24
+torch>=2.0
+opencv-python>=4.8
+
+# Optional — FAISS (Section 3.13 semantic refinement)
+# CPU build (recommended for most setups):
+#   pip install faiss-cpu
+# GPU build:
+#   pip install faiss-gpu
+
+# Production modality encoders (Section 3.8 stubs)
+# sentence-transformers   # SBERT for text units
+# transformers            # MathBERT (equation) and TAPAS (table)
+# timm                    # ViT-B/16 for diagram units
