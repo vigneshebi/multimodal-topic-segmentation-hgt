@@ -1,4 +1,6 @@
-Multimodal Topic Segmentation using Heterogeneous Graph Transformers (HGT)
+Integrating Multimodal Representation Learning with Graph-Based Reasoning for Improved Topic Transition Identification in Lecture Video Transcripts
+
+
 Overview
 
 With the rapid expansion of online education platforms, lecture videos have become a dominant medium for knowledge delivery. However, these videos are typically long and lack clearly defined topic boundaries, making it difficult for learners to efficiently navigate, search, and retrieve relevant information. Traditional topic segmentation approaches rely primarily on textual transcripts and assume that topic transitions are reflected through changes in vocabulary or linguistic patterns. In real instructional settings, this assumption does not hold, as concepts are often introduced and explained using a combination of textual explanations, mathematical expressions, tables, and diagrams. This multimodal nature of lecture content necessitates a more comprehensive approach to topic segmentation.
@@ -39,6 +41,16 @@ Applications
 
 The proposed framework has broad applications in educational technology, including lecture video navigation, automated content summarization, intelligent tutoring systems, and semantic indexing of educational materials. By enabling accurate topic segmentation, the system enhances the accessibility and usability of complex instructional content.
 
+
+## Authors
+- K. Vignesh  
+- Dr. S. R. Balasundaram  
+
+## Affiliation
+This research was carried out at the  
+**E-Learning and HCI Lab**,  
+Department of Computer Applications,  
+National Institute of Technology, Tiruchirappalli, Tamil Nadu, India.
 
 
 
